@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/ThirdPersonBP/Blueprints/EnemyTest.uasset
+Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset
