@@ -796,3 +796,329 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.04-02.57.46:494][  0]LogSlate: Took 0.000938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2021.11.04-02.57.46:647][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2021.11.04-02.57.46:647][  0]LogSlate: Took 0.001290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.04-02.58.30:749][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.04-02.58.30:752][321]Cmd: MAP LOAD FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.04-02.58.30:756][321]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.04-02.58.30:772][321]LightingResults: New page: Lighting Build
+[2021.11.04-02.58.30:772][321]LoadErrors: New page: Loading map: Level1.umap
+[2021.11.04-02.58.30:774][321]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-02.58.30:774][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-02.58.30:774][321]MapCheck: New page: Map Check
+[2021.11.04-02.58.30:774][321]LightingResults: New page: Lighting Build
+[2021.11.04-02.58.30:778][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.04-02.58.30:780][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.04-02.58.30:957][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.11.04-02.58.30:958][321]LogAIModule: Creating AISystem for world Level1
+[2021.11.04-02.58.31:730][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.04-02.58.31:762][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.04-02.58.31:772][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.04-02.58.31:773][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2021.11.04-02.58.31:773][321]LogFileHelpers: Loading map 'Level1' took 1.021
+[2021.11.04-02.58.31:773][321]LogSlate: Window 'Open Level' being destroyed
+[2021.11.04-02.59.17:959][ 68]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.04-02.59.17:967][ 68]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.04-02.59.32:536][766]LogContentBrowser: Attempting asset rename: NewMaterial -> Soil
+[2021.11.04-02.59.32:538][766]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.04-03.00.01:461][374]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Soil.Soil
+[2021.11.04-03.00.01:462][374]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.00.01:734][374]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.00.01:740][374]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.00.01:753][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.00.01:775][374]LogSlate: Took 0.000860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.04-03.00.01:904][374]LogRenderer: Reallocating scene render targets to support 804x456 Format 10 NumSamples 1 (Frame:1).
+[2021.11.04-03.00.02:941][424]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.04-03.00.03:539][457]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.04-03.00.03:539][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.04-03.00.03:539][457]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.04-03.00.03:539][457]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.04-03.00.03:546][457]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.04-03.00.06:046][600]LogSlate: Window 'Soil' being destroyed
+[2021.11.04-03.00.08:346][736]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:2955).
+[2021.11.04-03.00.15:017][ 19]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Desktop\TexturesCom_Ground_Soil3_3x3_1K_albedo.tif)
+[2021.11.04-03.00.15:056][ 19]LogTexture: Display: Building textures: TexturesCom_Ground_Soil3_3x3_1K_albedo (AutoDXT, 1024X1024)
+[2021.11.04-03.00.15:295][ 19]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Desktop\TexturesCom_Ground_Soil3_3x3_1K_normal.tif)
+[2021.11.04-03.00.15:321][ 19]LogTexture: Display: Building textures: TexturesCom_Ground_Soil3_3x3_1K_normal (BC5, 1024X1024)
+[2021.11.04-03.00.19:624][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.04-03.00.20:576][135]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level160CEF022441B90EE1990F78135461066.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.11.04-03.00.20:646][135]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataFAA321D44CD9D68256A4828F2B813AF8.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.11.04-03.00.20:663][135]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-03.00.20:663][135]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.11.04-03.00.20:663][135]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.11.04-03.01.01:976][124]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.01.01:981][124]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.01.02:011][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.01.02:908][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.04-03.01.03:347][204]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.04-03.01.03:347][204]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.04-03.01.03:347][204]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.04-03.01.03:347][204]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.04-03.01.04:748][288]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.01.04:749][288]LogMaterial: Warning: [AssetLog] /Engine/Transient.Soil (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.04-03.01.04:749][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.04-03.01.04:757][288]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.04-03.01.04:760][288]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.11.04-03.01.14:504][869]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.01.14:513][869]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.01.14:513][869]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.04-03.01.14:522][869]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.01.15:208][908]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.04-03.01.15:240][910]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.04-03.01.15:442][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.04-03.01.15:523][927]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.04-03.01.15:572][930]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.11.04-03.01.15:572][930]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.04-03.01.15:606][932]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.04-03.01.15:640][934]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.04-03.01.15:773][942]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.04-03.01.15:908][950]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.01.16:125][963]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.04-03.01.16:193][967]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.04-03.01.16:240][970]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.04-03.01.16:865][  7]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.04-03.01.16:865][  7]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.04-03.01.16:865][  7]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.04-03.01.16:865][  7]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.04-03.01.16:865][  7]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.04-03.01.16:865][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.04-03.01.18:164][ 85]LogMaterialEditor: Applying material Soil
+[2021.11.04-03.01.18:650][ 85]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.01.18:678][ 85]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.01.18:690][ 85]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.01.18:724][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.11.04-03.01.18:783][ 85]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.04-03.01.19:349][ 85]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.04-03.01.19:349][ 85]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.11.04-03.01.19:724][ 85]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.04-03.01.19:732][ 85]TextureStreamingBuild: Display: Compiling optional shaders took 0.956 seconds.
+[2021.11.04-03.01.19:744][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.04-03.01.20:202][111]LogMaterialEditor: Saving and Compiling material Soil
+[2021.11.04-03.01.20:813][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Soil" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/Soil.uasset" SILENT=true
+[2021.11.04-03.01.20:820][111]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Soil086201864AFDCF621DDF3A8C15EA87E0.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/Soil.uasset'
+[2021.11.04-03.01.20:852][111]AssetCheck: New page: Asset Save: Soil
+[2021.11.04-03.01.20:852][111]LogContentValidation: Display: Validating Material /Game/Materials/Soil.Soil
+[2021.11.04-03.01.20:853][111]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.04-03.01.20:853][111]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.04-03.01.20:853][111]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.04-03.01.20:853][111]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.04-03.01.20:853][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.04-03.01.20:853][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.04-03.02.31:453][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Desktop\TexturesCom_Ground_Soil3_3x3_1K_roughness.tif)
+[2021.11.04-03.02.31:478][888]LogTexture: Display: Building textures: TexturesCom_Ground_Soil3_3x3_1K_roughness (AutoDXT, 1024X1024)
+[2021.11.04-03.02.46:445][772]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.02.46:451][772]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.02.46:451][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSample_0, compiling. 
+[2021.11.04-03.02.47:335][825]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.04-03.02.47:809][853]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.04-03.02.47:809][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.04-03.02.47:809][853]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.04-03.02.47:809][853]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.04-03.02.47:809][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.04-03.02.47:809][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.04-03.02.48:283][881]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.02.48:321][882]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.02.48:981][920]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.04-03.02.53:542][193]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.02.53:548][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.04-03.02.53:593][194]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.04-03.02.54:266][233]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.04-03.02.54:300][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.02.54:482][246]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.04-03.02.54:633][255]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.02.54:699][259]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.04-03.02.56:172][347]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.04-03.02.56:172][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.04-03.02.56:172][347]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.04-03.02.56:172][347]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.04-03.02.56:172][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.04-03.02.56:172][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.04-03.03.05:077][879]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.03.05:087][879]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.04-03.03.05:090][879]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.03.05:090][879]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.03.05:090][879]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.03.05:090][879]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.03.05:090][879]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.03.05:090][879]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.03.05:091][879]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.03.05:091][879]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.03.05:830][921]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.04-03.03.05:830][921]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.03.06:044][934]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.04-03.03.06:179][942]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.03.06:260][947]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.04-03.03.06:454][958]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.11.04-03.03.06:454][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.11.04-03.03.06:454][958]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.04-03.03.06:454][958]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.04-03.03.06:454][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.04-03.03.06:454][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.04-03.03.07:819][ 40]LogMaterialEditor: Applying material Soil
+[2021.11.04-03.03.08:316][ 40]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.04-03.03.08:343][ 40]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.04-03.03.08:361][ 40]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.03.08:401][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.04-03.03.08:464][ 40]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.04-03.03.09:029][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.04-03.03.09:029][ 40]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.11.04-03.03.09:458][ 40]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.04-03.03.09:461][ 40]TextureStreamingBuild: Display: Compiling optional shaders took 1.003 seconds.
+[2021.11.04-03.03.09:485][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.11.04-03.03.09:942][ 65]LogMaterialEditor: Saving and Compiling material Soil
+[2021.11.04-03.03.10:527][ 65]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.04-03.03.10:542][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Soil" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/Soil.uasset" SILENT=true
+[2021.11.04-03.03.10:550][ 65]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/SoilEE6C48F84ADA2DE8C03B028B66E063DF.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/Soil.uasset'
+[2021.11.04-03.03.10:571][ 65]AssetCheck: New page: Asset Save: Soil
+[2021.11.04-03.03.10:571][ 65]LogContentValidation: Display: Validating Material /Game/Materials/Soil.Soil
+[2021.11.04-03.03.10:571][ 65]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.11.04-03.03.10:572][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.11.04-03.03.10:572][ 65]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.04-03.03.10:572][ 65]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.04-03.03.10:572][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.04-03.03.10:572][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.04-03.03.14:127][279]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.04-03.03.25:606][958]LogMaterial: Display: Missing cached shader map for material Soil, compiling. 
+[2021.11.04-03.03.25:664][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.11.04-03.03.25:664][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.11.04-03.03.25:665][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.11.04-03.03.25:665][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.11.04-03.03.25:665][958]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.11.04-03.03.25:665][958]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.04-03.03.25:665][958]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.04-03.03.30:760][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.04-03.03.31:657][237]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level103AFC2924DD4AEFB43672085E945D9D3.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.11.04-03.03.31:717][237]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataC74E0FC647D2675239C78082994F6A00.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.11.04-03.03.31:737][237]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-03.03.31:737][237]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.11.04-03.03.31:737][237]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.11.04-03.03.32:473][281]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.04-03.03.32:481][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.04-03.03.32:481][281]PIE: New page: PIE session: Level1 (Nov 3, 2021, 1:03:32 PM)
+[2021.11.04-03.03.32:482][281]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.04-03.03.32:483][281]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.04-03.03.32:483][281]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.04-03.03.32:553][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069005s)
+[2021.11.04-03.03.32:553][281]LogAIModule: Creating AISystem for world Level1
+[2021.11.04-03.03.32:554][281]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2021.11.04-03.03.32:554][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.070208s)
+[2021.11.04-03.03.32:574][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.04-03.03.32:575][281]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.04-03.03.32:575][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.04-03.03.32:575][281]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.04-03.03.32:575][281]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.04-03.03.32:577][281]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.04-03.03.32:577][281]LogAudioMixer: Display: 1: FrontRight
+[2021.11.04-03.03.32:589][281]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.04-03.03.32:589][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.04-03.03.32:589][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.04-03.03.32:589][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.04-03.03.32:589][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.04-03.03.32:589][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.04-03.03.32:589][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.04-03.03.32:603][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.04-03.03.32:603][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.04-03.03.32:603][281]LogInit: FAudioDevice initialized.
+[2021.11.04-03.03.32:603][281]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.11.04-03.03.32:614][281]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.04-03.03.32:624][281]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.03-20.03.32
+[2021.11.04-03.03.32:625][281]LogWorld: Bringing up level for play took: 0.009636
+[2021.11.04-03.03.32:625][281]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.11.04-03.03.32:629][281]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.04-03.03.32:631][281]PIE: Server logged in
+[2021.11.04-03.03.32:632][281]PIE: Play in editor total start time 0.154 seconds.
+[2021.11.04-03.03.40:177][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-03.03.40:177][731]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.04-03.03.40:177][731]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-03.03.40:179][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-03.03.40:185][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.04-03.03.40:194][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-03.03.40:200][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.04-03.03.40:200][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-03.03.40:201][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-03.03.40:216][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-03.03.40:221][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.04-03.03.40:275][733]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.11.04-03.03.41:832][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.11.04-03.03.42:736][825]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level13E3001664772B8C41C77C0A39637CCC9.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.11.04-03.03.42:792][825]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataA3CDE27F420B06155BFB9EAA4E8CC745.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.11.04-03.03.42:805][825]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-03.03.42:805][825]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.11.04-03.03.42:805][825]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
