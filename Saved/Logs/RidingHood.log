@@ -5914,3 +5914,1659 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.15-23.23.28:187][767]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.15-23.23.28:187][767]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
 [2021.11.15-23.23.28:187][767]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.11.15-23.26.03:628][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_3"')'
+[2021.11.15-23.26.03:628][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_55.MaterialExpressionConstant_4"')'
+[2021.11.15-23.26.03:629][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_8"')'
+[2021.11.15-23.26.03:629][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_8"')'
+[2021.11.15-23.26.03:629][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_8"')'
+[2021.11.15-23.26.03:630][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_37.MaterialExpressionMultiply_9"')'
+[2021.11.15-23.26.03:630][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_62.MaterialExpressionLinearInterpolate_5"')'
+[2021.11.15-23.26.03:630][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_61.MaterialExpressionLinearInterpolate_4"')'
+[2021.11.15-23.26.03:631][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant3Vector'"MaterialGraphNode_47.MaterialExpressionConstant3Vector_1"')'
+[2021.11.15-23.26.03:631][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_60.MaterialExpressionLinearInterpolate_6"')'
+[2021.11.15-23.26.03:631][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_49.MaterialExpressionScalarParameter_2"',InputName="Blend Range"))'
+[2021.11.15-23.26.03:631][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_50.MaterialExpressionScalarParameter_3"',InputName="Start Offset"))'
+[2021.11.15-23.26.03:631][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_10"')'
+[2021.11.15-23.26.03:632][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_10"')'
+[2021.11.15-23.26.03:632][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_10"')'
+[2021.11.15-23.26.03:632][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_3"')'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_28.MaterialExpressionConstant_5"')'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_52.MaterialExpressionTextureSample_13"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_25.MaterialExpressionTextureSample_16"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_48.MaterialExpressionMaterialFunctionCall_4"')'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_53.MaterialExpressionTextureSample_14"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_26.MaterialExpressionTextureSample_17"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_48.MaterialExpressionMaterialFunctionCall_4"')'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_51.MaterialExpressionTextureSample_12"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.15-23.26.03:633][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_24.MaterialExpressionTextureSample_15"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.15-23.26.03:634][ 21]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_48.MaterialExpressionMaterialFunctionCall_4"')'
+[2021.11.15-23.26.03:657][ 21]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.26.03:665][ 21]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.26.03:737][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.11.15-23.26.03:747][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2021.11.15-23.26.03:753][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2021.11.15-23.26.03:760][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2021.11.15-23.26.03:766][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2021.11.15-23.26.03:772][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2021.11.15-23.26.03:779][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2021.11.15-23.26.03:785][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.11.15-23.26.03:791][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2021.11.15-23.26.03:804][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2021.11.15-23.26.03:810][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2021.11.15-23.26.03:817][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2021.11.15-23.26.03:824][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2021.11.15-23.26.03:829][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2021.11.15-23.26.04:915][ 63]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 57
+[2021.11.15-23.26.04:961][ 65]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 56
+[2021.11.15-23.26.05:173][ 75]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2021.11.15-23.26.05:420][ 85]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2021.11.15-23.26.05:462][ 87]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2021.11.15-23.26.05:508][ 89]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.11.15-23.26.05:570][ 92]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.11.15-23.26.05:628][ 95]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2021.11.15-23.26.05:829][105]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2021.11.15-23.26.05:861][106]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.11.15-23.26.05:863][106]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.05:863][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.05:863][106]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.05:863][106]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.05:863][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.05:863][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.26.06:267][126]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2021.11.15-23.26.06:339][130]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2021.11.15-23.26.06:456][137]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2021.11.15-23.26.06:511][140]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2021.11.15-23.26.06:669][149]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.11.15-23.26.06:786][156]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2021.11.15-23.26.06:786][156]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.11.15-23.26.06:786][156]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2021.11.15-23.26.07:538][196]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2021.11.15-23.26.07:538][196]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2021.11.15-23.26.07:610][200]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2021.11.15-23.26.07:695][205]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2021.11.15-23.26.07:878][216]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.11.15-23.26.07:878][216]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.11.15-23.26.07:878][216]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2021.11.15-23.26.08:119][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.11.15-23.26.08:598][256]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.11.15-23.26.08:668][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.11.15-23.26.08:751][265]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.11.15-23.26.08:816][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.11.15-23.26.08:867][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.11.15-23.26.09:021][281]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.11.15-23.26.09:021][281]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.11.15-23.26.09:040][282]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.15-23.26.09:427][304]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.09:458][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.11.15-23.26.09:481][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2021.11.15-23.26.09:505][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2021.11.15-23.26.09:528][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2021.11.15-23.26.09:551][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2021.11.15-23.26.09:573][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2021.11.15-23.26.09:594][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2021.11.15-23.26.09:626][305]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2021.11.15-23.26.09:644][306]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2021.11.15-23.26.09:665][307]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.11.15-23.26.09:747][312]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2021.11.15-23.26.09:864][319]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 33
+[2021.11.15-23.26.09:864][319]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.11.15-23.26.09:880][320]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.11.15-23.26.09:964][325]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2021.11.15-23.26.10:592][360]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.11.15-23.26.10:799][372]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.11.15-23.26.11:149][392]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.11.15-23.26.11:369][405]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.11.15-23.26.11:419][408]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.11.15-23.26.11:532][415]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.11.15-23.26.11:533][415]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.11.15-23.26.11:533][415]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.11.15-23.26.11:564][417]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.11.15-23.26.11:593][418]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.11:593][418]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.11:593][418]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.11:594][418]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.11:594][418]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.11:594][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.26.11:723][426]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.11.15-23.26.12:286][458]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.11.15-23.26.12:286][458]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.11.15-23.26.12:457][468]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.11.15-23.26.12:507][471]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.11.15-23.26.12:540][473]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.11.15-23.26.12:624][478]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.11.15-23.26.12:657][480]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.11.15-23.26.12:727][484]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.11.15-23.26.13:412][523]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.15-23.26.13:412][523]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.11.15-23.26.13:428][524]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.11.15-23.26.13:497][528]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.11.15-23.26.13:578][533]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.11.15-23.26.13:677][539]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.15-23.26.13:695][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.11.15-23.26.13:695][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.11.15-23.26.14:061][557]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.14:242][558]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.15-23.26.14:352][564]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.11.15-23.26.14:368][565]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.11.15-23.26.14:520][574]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.14:535][575]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.14:553][576]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.14:637][581]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.14:710][585]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.15:248][607]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.15-23.26.15:366][612]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.11.15-23.26.15:412][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.11.15-23.26.15:412][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.11.15-23.26.16:387][663]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.16:387][663]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.16:387][663]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.16:387][663]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.16:387][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.16:387][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.26.20:086][880]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.26.20:098][880]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.26.20:099][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2021.11.15-23.26.20:108][880]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.21:007][918]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.15-23.26.21:113][922]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.15-23.26.21:436][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.15-23.26.21:501][940]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.15-23.26.21:610][945]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.15-23.26.21:610][945]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.15-23.26.21:678][947]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.15-23.26.21:717][949]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.15-23.26.21:864][956]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.15-23.26.22:154][968]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.22:419][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.15-23.26.22:444][979]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.15-23.26.22:516][982]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.15-23.26.23:404][ 14]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.23:404][ 14]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.23:404][ 14]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.23:404][ 14]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.23:404][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.23:404][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.26.24:179][ 60]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.26.24:190][ 60]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.26.24:192][ 60]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2021.11.15-23.26.24:200][ 60]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.25:078][ 96]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.15-23.26.25:078][ 96]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.11.15-23.26.25:479][113]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.15-23.26.25:637][120]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.15-23.26.25:731][122]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.15-23.26.25:756][124]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.15-23.26.25:774][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.15-23.26.25:774][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.11.15-23.26.25:922][133]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.15-23.26.26:140][139]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.15-23.26.26:521][149]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.15-23.26.26:620][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.15-23.26.26:655][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.15-23.26.27:495][189]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.27:496][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.27:496][189]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.27:496][189]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.27:496][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.27:496][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.26.30:337][357]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.30:347][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.26.30:348][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.26.30:350][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2021.11.15-23.26.30:358][357]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.31:250][393]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.15-23.26.31:272][394]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.11.15-23.26.31:659][407]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.15-23.26.31:659][407]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.15-23.26.31:790][412]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.15-23.26.31:839][413]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.15-23.26.31:839][413]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.15-23.26.31:876][414]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.15-23.26.32:113][422]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.15-23.26.32:304][426]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.15-23.26.32:522][433]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.15-23.26.32:709][439]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.11.15-23.26.32:737][440]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.15-23.26.33:466][471]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.33:474][471]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.33:474][471]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.33:474][471]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.33:474][471]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.33:474][471]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.33:474][471]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.33:482][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2021.11.15-23.26.33:494][471]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.33:679][480]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.11.15-23.26.33:821][487]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.11.15-23.26.34:366][508]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.15-23.26.34:437][511]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.11.15-23.26.34:624][520]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.11.15-23.26.34:787][527]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.34:813][528]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.15-23.26.34:925][533]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.34:947][534]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.11.15-23.26.35:010][537]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.15-23.26.35:388][553]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.11.15-23.26.35:484][557]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.11.15-23.26.35:659][565]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.15-23.26.36:500][606]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.36:501][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.36:501][606]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.36:501][606]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.36:501][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.36:501][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.26.43:577][ 24]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.43:590][ 24]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.26.43:594][ 24]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.26.43:597][ 24]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.44:540][ 64]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.15-23.26.44:541][ 64]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.15-23.26.44:983][ 84]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.15-23.26.45:076][ 87]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.15-23.26.45:190][ 92]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.11.15-23.26.45:212][ 93]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.15-23.26.45:287][ 96]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.15-23.26.45:327][ 98]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.45:571][108]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.15-23.26.45:817][115]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.46:009][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.15-23.26.46:175][126]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.15-23.26.46:175][126]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.15-23.26.47:057][163]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.26.47:072][163]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.26.47:074][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2021.11.15-23.26.47:082][163]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.26.47:985][200]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.15-23.26.47:985][200]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.15-23.26.48:418][220]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.15-23.26.48:418][220]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.15-23.26.48:482][223]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.15-23.26.48:505][224]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.15-23.26.48:627][230]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.15-23.26.48:627][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.11.15-23.26.48:742][236]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.15-23.26.48:952][244]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.26.49:262][255]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.15-23.26.49:519][263]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.15-23.26.49:519][263]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.15-23.26.50:333][296]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.26.50:333][296]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.26.50:333][296]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.26.50:333][296]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.26.50:333][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.26.50:333][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.27.08:817][322]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.27.08:835][323]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.27.09:601][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.15-23.27.10:062][385]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.27.10:062][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.27.10:062][385]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.27.10:062][385]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.27.10:062][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.27.10:062][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.27.18:618][897]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.18:729][898]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.27.18:729][898]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.27.18:729][898]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.27.18:729][898]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.27.18:730][898]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.27.18:730][898]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.27.18:730][898]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.27.18:730][898]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.27.19:331][930]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.15-23.27.19:860][960]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.27.19:860][960]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.27.19:860][960]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.27.19:860][960]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.27.19:860][960]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.27.19:860][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.27.25:156][277]LogMaterialEditor: Applying material NewMaterial
+[2021.11.15-23.27.25:650][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.27.25:669][277]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.27.25:700][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:737][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:782][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:808][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:835][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:862][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:890][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:899][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:907][277]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.27.25:939][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.11.15-23.27.26:015][277]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 173
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 172
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 171
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 170
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 160
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 150
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 140
+[2021.11.15-23.27.26:581][277]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 130
+[2021.11.15-23.27.26:797][277]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 120
+[2021.11.15-23.27.26:797][277]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 110
+[2021.11.15-23.27.26:797][277]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 100
+[2021.11.15-23.27.26:949][277]TextureStreamingBuild: Display: Compiling optional shaders took 0.941 seconds.
+[2021.11.15-23.27.26:962][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.15-23.27.27:408][301]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.11.15-23.27.30:768][301]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 90
+[2021.11.15-23.27.30:768][301]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 80
+[2021.11.15-23.27.31:880][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 70
+[2021.11.15-23.27.31:880][301]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2021.11.15-23.27.31:880][301]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2021.11.15-23.27.31:880][301]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 46
+[2021.11.15-23.27.32:437][301]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2021.11.15-23.27.32:666][301]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.11.15-23.27.32:926][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NewMaterial" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset" SILENT=true
+[2021.11.15-23.27.32:971][301]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/NewMaterial2DD5B4094553DD200F5A4C89045E164F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset'
+[2021.11.15-23.27.32:993][301]AssetCheck: New page: Asset Save: NewMaterial
+[2021.11.15-23.27.32:993][301]LogContentValidation: Display: Validating Material /Game/Materials/NewMaterial.NewMaterial
+[2021.11.15-23.27.33:000][301]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.27.33:000][301]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.27.33:000][301]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.27.33:000][301]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.15-23.27.33:001][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.27.33:001][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.27.34:210][354]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.11.15-23.27.34:944][396]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.11.15-23.27.35:893][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.11.15-23.27.36:446][486]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.11.15-23.27.36:764][505]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.11.15-23.27.36:781][506]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.11.15-23.27.36:875][511]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.15-23.27.36:967][516]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.11.15-23.27.37:221][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.27.37:397][541]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.11.15-23.27.37:511][545]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.11.15-23.27.37:855][561]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.15-23.27.38:409][594]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.11.15-23.27.38:409][594]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.15-23.27.38:609][606]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.15-23.27.39:986][684]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.15-23.27.39:994][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.15-23.27.39:994][684]PIE: New page: PIE session: Level1 (Nov 15, 2021, 7:27:39 AM)
+[2021.11.15-23.27.39:994][684]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.15-23.27.40:072][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078214s)
+[2021.11.15-23.27.40:073][684]LogAIModule: Creating AISystem for world Level1
+[2021.11.15-23.27.40:073][684]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2021.11.15-23.27.40:073][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.079309s)
+[2021.11.15-23.27.40:082][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.15-23.27.40:084][684]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.15-23.27.40:084][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.15-23.27.40:084][684]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.15-23.27.40:084][684]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.15-23.27.40:086][684]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.15-23.27.40:086][684]LogAudioMixer: Display: 1: FrontRight
+[2021.11.15-23.27.40:098][684]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.15-23.27.40:098][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.15-23.27.40:098][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.15-23.27.40:098][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.15-23.27.40:098][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.15-23.27.40:098][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.15-23.27.40:098][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.15-23.27.40:111][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.15-23.27.40:111][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.15-23.27.40:111][684]LogInit: FAudioDevice initialized.
+[2021.11.15-23.27.40:111][684]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2021.11.15-23.27.40:121][684]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.15-23.27.40:132][684]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.15-15.27.40
+[2021.11.15-23.27.40:133][684]LogWorld: Bringing up level for play took: 0.011170
+[2021.11.15-23.27.40:133][684]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.15-23.27.40:137][684]PIE: Server logged in
+[2021.11.15-23.27.40:138][684]PIE: Play in editor total start time 0.147 seconds.
+[2021.11.15-23.28.08:295][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-23.28.08:295][370]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.15-23.28.08:295][370]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-23.28.08:297][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-23.28.08:307][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.15-23.28.08:309][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-23.28.08:318][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.15-23.28.08:318][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-23.28.08:319][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-23.28.08:333][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-23.28.08:337][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.15-23.28.08:357][371]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.11.15-23.29.17:671][ 56]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.17:678][ 56]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.29.17:696][ 58]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.29.18:629][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.15-23.29.19:154][143]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.29.19:154][143]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.29.19:155][143]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.29.19:155][143]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.29.19:155][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.29.19:155][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.29.31:009][854]LogMaterialEditor: Applying material NewMaterial
+[2021.11.15-23.29.31:493][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.29.31:521][854]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.29.31:540][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:569][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:605][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:631][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:661][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:691][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:715][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:724][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:734][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.29.31:827][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.11.15-23.29.31:836][854]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 173
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 172
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 171
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 170
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 160
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 150
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 140
+[2021.11.15-23.29.32:403][854]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 130
+[2021.11.15-23.29.32:619][854]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 120
+[2021.11.15-23.29.32:620][854]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 110
+[2021.11.15-23.29.32:620][854]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 100
+[2021.11.15-23.29.32:765][854]TextureStreamingBuild: Display: Compiling optional shaders took 0.936 seconds.
+[2021.11.15-23.29.32:777][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.11.15-23.29.33:788][913]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.11.15-23.29.36:600][913]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 90
+[2021.11.15-23.29.36:600][913]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 80
+[2021.11.15-23.29.37:716][913]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 70
+[2021.11.15-23.29.37:716][913]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2021.11.15-23.29.37:716][913]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2021.11.15-23.29.37:716][913]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.11.15-23.29.38:274][913]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2021.11.15-23.29.38:515][913]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.11.15-23.29.38:768][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NewMaterial" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset" SILENT=true
+[2021.11.15-23.29.38:815][913]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/NewMaterial1621EDC242E2FF70F33845ABBE8B0F2F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset'
+[2021.11.15-23.29.38:838][913]AssetCheck: New page: Asset Save: NewMaterial
+[2021.11.15-23.29.38:838][913]LogContentValidation: Display: Validating Material /Game/Materials/NewMaterial.NewMaterial
+[2021.11.15-23.29.38:846][913]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.29.38:846][913]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.29.38:846][913]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.29.38:846][913]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.15-23.29.38:846][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.29.38:846][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.29.39:833][956]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.11.15-23.29.40:621][  2]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.11.15-23.29.41:441][ 51]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.11.15-23.29.41:878][ 76]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.11.15-23.29.42:227][ 97]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.11.15-23.29.42:357][104]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.11.15-23.29.42:374][105]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.11.15-23.29.42:406][107]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.11.15-23.29.42:825][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.29.42:825][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.29.42:854][132]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.11.15-23.29.42:892][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.11.15-23.29.43:500][132]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.15-23.29.43:700][132]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.11.15-23.29.43:700][132]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.11.15-23.29.43:705][132]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.15-23.29.44:762][132]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level108A096C84B71FF185AC669A152EF9A57.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.11.15-23.29.44:820][132]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData2501ECBB44E35491A6852A8A75FD3A5D.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.11.15-23.29.44:837][132]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.15-23.29.44:837][132]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.11.15-23.29.44:837][132]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.11.15-23.29.48:188][325]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.15-23.29.48:197][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.15-23.29.48:197][325]PIE: New page: PIE session: Level1 (Nov 15, 2021, 7:29:48 AM)
+[2021.11.15-23.29.48:197][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.15-23.29.48:273][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076297s)
+[2021.11.15-23.29.48:274][325]LogAIModule: Creating AISystem for world Level1
+[2021.11.15-23.29.48:274][325]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2021.11.15-23.29.48:274][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.077292s)
+[2021.11.15-23.29.48:283][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.15-23.29.48:284][325]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.15-23.29.48:284][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.15-23.29.48:284][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.15-23.29.48:284][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.15-23.29.48:286][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.15-23.29.48:286][325]LogAudioMixer: Display: 1: FrontRight
+[2021.11.15-23.29.48:298][325]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.15-23.29.48:298][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.15-23.29.48:298][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.15-23.29.48:298][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.15-23.29.48:299][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.15-23.29.48:299][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.15-23.29.48:299][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.15-23.29.48:312][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.15-23.29.48:312][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.15-23.29.48:312][325]LogInit: FAudioDevice initialized.
+[2021.11.15-23.29.48:312][325]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2021.11.15-23.29.48:322][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.15-23.29.48:333][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.15-15.29.48
+[2021.11.15-23.29.48:333][325]LogWorld: Bringing up level for play took: 0.009690
+[2021.11.15-23.29.48:333][325]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.11.15-23.29.48:337][325]PIE: Server logged in
+[2021.11.15-23.29.48:338][325]PIE: Play in editor total start time 0.144 seconds.
+[2021.11.15-23.32.21:405][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-23.32.21:405][506]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.15-23.32.21:405][506]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-23.32.21:407][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-23.32.21:416][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.15-23.32.21:418][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-23.32.21:427][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-23.32.21:427][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-23.32.21:428][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-23.32.21:446][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.15-23.32.21:490][508]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.11.15-23.32.23:144][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.15-23.32.24:370][606]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1AA99FB794BE9DC6DA7EBB29ABDA90C16.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.11.15-23.32.24:429][606]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataDEE5FA764E9188EFC352E6A080A8219E.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.11.15-23.32.24:443][606]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.15-23.32.24:443][606]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.11.15-23.32.24:443][606]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.11.15-23.32.26:630][737]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.11.15-23.32.26:646][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NewMaterial" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset" SILENT=true
+[2021.11.15-23.32.26:661][737]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/NewMaterialCEAD7918424586AB0623A8AB37B5BDD9.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset'
+[2021.11.15-23.32.26:668][737]AssetCheck: New page: Asset Save: NewMaterial
+[2021.11.15-23.32.26:668][737]LogContentValidation: Display: Validating Material /Game/Materials/NewMaterial.NewMaterial
+[2021.11.15-23.33.06:775][524]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.15-23.38.58:894][419]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.11.15-23.38.58:907][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NewMaterial" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset" SILENT=true
+[2021.11.15-23.38.58:923][419]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/NewMaterial7DD62C744BF617C4CE7B9281F3B950E0.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset'
+[2021.11.15-23.38.58:932][419]AssetCheck: New page: Asset Save: NewMaterial
+[2021.11.15-23.38.58:932][419]LogContentValidation: Display: Validating Material /Game/Materials/NewMaterial.NewMaterial
+[2021.11.15-23.50.43:134][170]LogTemp: Warning: Received Json : {"minLOD":"lod0","scriptFilePath":null,"message":"export","version":1,"resolution":"4K","resolutionValue":4096,"category":"Foliage","type":"surface","id":"oilpt20","name":"Uncut Grass","path":"C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20","exportAs":"default","textureFormat":"image/jpeg","meshFormat":"","previewImage":"C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt20_Preview.png","averageColor":"#546029","tags":["green","ground","archviz"],"activeLOD":"lod0","categories":["surface","grass","wild"],"isExternal":false,"exportPath":"C:\\Users\\barre\\OneDrive\\Desktop\\MyProjectTest","namingConvention":{"texture":"$mapName_$resolution_$lod_$id","model":"$name_$lod_$variation_$id","folder":"$name_$id"},"folderNamingConvention":"Uncut Grass_oilpt20","mapNameOverride":{"albedo":"Albedo","ao":"AO","bump":"Bump","cavity":"Cavity","curvature":"Curvature","diffuse":"Diffuse","displacement":"Displacement","fuzz":"Fuzz","gloss":"Gloss","mask":"Mask","metalness":"Metalness","normal":"Normal","opacity":"Opacity","rm":"RM","roughness":"Roughness","specular":"Specular","thickness":"Thickness","translucency":"Translucency","transmission":"Transmission"},"meta":[{"key":"scanArea","name":"Scan Area","value":"2x2 m"},{"key":"height","name":"Height","value":"0.035 m"},{"key":"tileable","name":"Tileable","value":true},{"key":"texelDensity","name":"Texel Density","value":"Infinity px/m"},{"key":"calibration","name":"Calibration","value":""},{"key":"scanner","name":"Scanner","value":""}],"materials":[],"textureSets":[],"workflow":"specular","origin":"megascans","isModularAsset":false,"guid":"88029e9e-6235-15c4-f064-b87a8406bece","components":[{"path":"C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Albedo.jpg","type":"albedo","resolution":"4K","format":"jpg","name":"oilpt2_4K_Albedo.jpg","nameOverride":"Albedo_4K__oilpt20.jpg","colorSpace":"sRGB","physicalSize":"2x2"},{"resolution":"4K","type":"displacement","path":"C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Displacement.exr","format":"exr","name":"oilpt2_4K_Displacement.exr","nameOverride":"Displacement_4K__oilpt20.exr","colorSpace":"Linear","physicalSize":"2x2"},{"path":"C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Normal.jpg","type":"normal","resolution":"4K","format":"jpg","name":"oilpt2_4K_Normal.jpg","nameOverride":"Normal_4K__oilpt20.jpg","colorSpace":"Linear","physicalSize":"2x2"},{"resolution":"4K","type":"roughness","path":"C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Roughness.jpg","format":"jpg","name":"oilpt2_4K_Roughness.jpg","nameOverride":"Roughness_4K__oilpt20.jpg","colorSpace":"Linear","physicalSize":"2x2"}],"meshList":[],"packedTextures":[],"lodList":[],"meshVersion":1,"components-billboard":[],"isCustom":false}
+[2021.11.15-23.50.43:136][170]LogTemp: Warning: Converted Json : {
+	"minLOD": "lod0",
+	"scriptFilePath": "",
+	"message": "export",
+	"version": 1,
+	"resolution": "4K",
+	"resolutionValue": 4096,
+	"category": "Foliage",
+	"type": "surface",
+	"id": "oilpt20",
+	"name": "Uncut Grass",
+	"path": "C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20",
+	"exportAs": "default",
+	"textureFormat": "image/jpeg",
+	"meshFormat": "",
+	"previewImage": "C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt20_Preview.png",
+	"averageColor": "#546029",
+	"tags": [
+		"green",
+		"ground",
+		"archviz"
+	],
+	"activeLOD": "lod0",
+	"categories": [
+		"surface",
+		"grass",
+		"wild"
+	],
+	"isExternal": false,
+	"exportPath": "C:\\Users\\barre\\OneDrive\\Desktop\\MyProjectTest",
+	"namingConvention":
+	{
+		"texture": "$mapName_$resolution_$lod_$id",
+		"model": "$name_$lod_$variation_$id",
+		"folder": "$name_$id"
+	},
+	"folderNamingConvention": "Uncut Grass_oilpt20",
+	"mapNameOverride":
+	{
+		"albedo": "Albedo",
+		"ao": "AO",
+		"bump": "Bump",
+		"cavity": "Cavity",
+		"curvature": "Curvature",
+		"diffuse": "Diffuse",
+		"displacement": "Displacement",
+		"fuzz": "Fuzz",
+		"gloss": "Gloss",
+		"mask": "Mask",
+		"metalness": "Metalness",
+		"normal": "Normal",
+		"normalObject": "",
+		"roughness": "Roughness",
+		"specular": "Specular",
+		"thickness": "Thickness",
+		"transmission": "Transmission"
+	},
+	"meta": [
+		{
+			"key": "scanArea",
+			"name": "Scan Area",
+			"value": true
+		},
+		{
+			"key": "height",
+			"name": "Height",
+			"value": false
+		},
+		{
+			"key": "tileable",
+			"name": "Tileable",
+			"value": true
+		},
+		{
+			"key": "texelDensity",
+			"name": "Texel Density",
+			"value": false
+		},
+		{
+			"key": "calibration",
+			"name": "Calibration",
+			"value": false
+		},
+		{
+			"key": "scanner",
+			"name": "Scanner",
+			"value": false
+		}
+	],
+	"materials": [],
+	"textureSets": [],
+	"workflow": "specular",
+	"components": [
+		{
+			"format": "jpg",
+			"type": "albedo",
+			"resolution": 4,
+			"name": "oilpt2_4K_Albedo.jpg",
+			"nameOverride": "Albedo_4K__oilpt20.jpg",
+			"path": "C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Albedo.jpg"
+		},
+		{
+			"format": "exr",
+			"type": "displacement",
+			"resolution": 4,
+			"name": "oilpt2_4K_Displacement.exr",
+			"nameOverride": "Displacement_4K__oilpt20.exr",
+			"path": "C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Displacement.exr"
+		},
+		{
+			"format": "jpg",
+			"type": "normal",
+			"resolution": 4,
+			"name": "oilpt2_4K_Normal.jpg",
+			"nameOverride": "Normal_4K__oilpt20.jpg",
+			"path": "C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Normal.jpg"
+		},
+		{
+			"format": "jpg",
+			"type": "roughness",
+			"resolution": 4,
+			"name": "oilpt2_4K_Roughness.jpg",
+			"nameOverride": "Roughness_4K__oilpt20.jpg",
+			"path": "C:\\Users\\barre\\OneDrive\\Documents\\Megascans Library\\Downloaded\\surface\\grass_wild_oilpt20\\oilpt2_4K_Roughness.jpg"
+		}
+	],
+	"meshList": [],
+	"packedTextures": [],
+	"lodList": [],
+	"meshVersion": 1,
+	"components_billboard": [],
+	"isCustom": false,
+	"isModularAsset": false
+}
+[2021.11.15-23.50.43:136][170]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2021.11.15-23.50.43:136][170]LogJson: Warning: Field uvChannel was not found.
+[2021.11.15-23.50.43:136][170]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.11.15-23.50.43:136][170]LogJson: Warning: Field textureSets was not found.
+[2021.11.15-23.50.43:136][170]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.11.15-23.50.43:137][170]LogJson: Warning: Field uvChannel was not found.
+[2021.11.15-23.50.43:137][170]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.11.15-23.50.43:137][170]LogJson: Warning: Field textureSets was not found.
+[2021.11.15-23.50.43:137][170]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.11.15-23.50.43:137][170]LogJson: Warning: Field uvChannel was not found.
+[2021.11.15-23.50.43:137][170]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.11.15-23.50.43:137][170]LogJson: Warning: Field textureSets was not found.
+[2021.11.15-23.50.43:137][170]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.11.15-23.50.43:137][170]LogJson: Warning: Field uvChannel was not found.
+[2021.11.15-23.50.43:137][170]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.11.15-23.50.43:137][170]LogJson: Warning: Field textureSets was not found.
+[2021.11.15-23.50.43:137][170]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.11.15-23.50.43:162][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling': Can't find file.
+[2021.11.15-23.50.43:162][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling': Can't find file.
+[2021.11.15-23.50.43:162][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments': Can't find file.
+[2021.11.15-23.50.43:163][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments': Can't find file.
+[2021.11.15-23.50.43:163][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling': Can't find file.
+[2021.11.15-23.50.43:164][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling': Can't find file.
+[2021.11.15-23.50.43:164][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission': Can't find file.
+[2021.11.15-23.50.43:164][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission': Can't find file.
+[2021.11.15-23.50.43:165][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling': Can't find file.
+[2021.11.15-23.50.43:166][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments': Can't find file.
+[2021.11.15-23.50.43:166][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling': Can't find file.
+[2021.11.15-23.50.43:166][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission': Can't find file.
+[2021.11.15-23.50.43:167][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.11.15-23.50.43:167][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.11.15-23.50.43:168][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.11.15-23.50.43:169][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.11.15-23.50.43:169][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MSTextures/Metalness.Metalness Referenced by MS_DefaultMaterial
+[2021.11.15-23.50.43:172][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.11.15-23.50.43:173][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission': Can't find file.
+[2021.11.15-23.50.43:173][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission.MF_Transmission Referenced by MS_DefaultMaterial
+[2021.11.15-23.50.43:173][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments': Can't find file.
+[2021.11.15-23.50.43:173][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.MF_MapAdjustments Referenced by MS_DefaultMaterial
+[2021.11.15-23.50.43:173][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling': Can't find file.
+[2021.11.15-23.50.43:173][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.MF_Tiling Referenced by MS_DefaultMaterial
+[2021.11.15-23.50.43:174][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling': Can't find file.
+[2021.11.15-23.50.43:174][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.MF_DetailNormalTiling Referenced by MS_DefaultMaterial
+[2021.11.15-23.50.43:174][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling': Can't find file.
+[2021.11.15-23.50.43:174][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.MF_Tiling Referenced by MaterialExpressionMaterialFunctionCall_0
+[2021.11.15-23.50.43:174][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments': Can't find file.
+[2021.11.15-23.50.43:174][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.MF_MapAdjustments Referenced by MaterialExpressionMaterialFunctionCall_10
+[2021.11.15-23.50.43:175][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling': Can't find file.
+[2021.11.15-23.50.43:175][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.MF_DetailNormalTiling Referenced by MaterialExpressionMaterialFunctionCall_8
+[2021.11.15-23.50.43:175][170]LogLinker: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to load '/Game/Megascans/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.11.15-23.50.43:175][170]LoadErrors: Failed to load /Game/Megascans/MSPresets/MSTextures/Metalness.Metalness Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2021.11.15-23.50.43:207][170]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2021.11.15-23.50.43:207][170]LogMaterial: Warning: [AssetLog] C:\Users\barre\OneDrive\Desktop\Projects\RidingHood\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.15-23.50.43:207][170]LogMaterial: Display: 	Missing Material Function
+[2021.11.15-23.50.43:241][170]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_4K_Albedo.jpg)
+[2021.11.15-23.50.43:428][170]LogTexture: Display: Building textures: Albedo_4K_oilpt20 (AutoDXT, 4096X4096)
+[2021.11.15-23.50.49:050][170]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_4K_Displacement.exr)
+[2021.11.15-23.50.49:810][170]LogTexture: Display: Building textures: Displacement_4K_oilpt20 (RGBA16F, 4096X4096)
+[2021.11.15-23.50.51:011][170]LogTexture: Display: Building textures: Displacement_4K_oilpt20 (BC4, 4096X4096)
+[2021.11.15-23.50.51:713][170]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_4K_Normal.jpg)
+[2021.11.15-23.50.51:938][170]LogTexture: Display: Building textures: Normal_4K_oilpt20 (BC5, 4096X4096)
+[2021.11.15-23.50.52:656][170]LogTexture: Display: Building textures: Normal_4K_oilpt20 (BC5, 4096X4096)
+[2021.11.15-23.50.53:366][170]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\barre\OneDrive\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_4K_Roughness.jpg)
+[2021.11.15-23.50.53:519][170]LogTexture: Display: Building textures: Roughness_4K_oilpt20 (AutoDXT, 4096X4096)
+[2021.11.15-23.50.57:327][170]LogTexture: Display: Building textures: Roughness_4K_oilpt20 (BC4, 4096X4096)
+[2021.11.15-23.50.57:878][170]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Uncut_Grass_oilpt20_inst21A5732449FF2A895CF07FABEEA6CC9D.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Megascans/Surfaces/Uncut_Grass_oilpt20/Uncut_Grass_oilpt20_inst.uasset'
+[2021.11.15-23.50.57:961][171]AssetCheck: New page: Asset Save: Uncut_Grass_oilpt20_inst
+[2021.11.15-23.50.57:961][171]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Uncut_Grass_oilpt20_inst.Uncut_Grass_oilpt20_inst
+[2021.11.15-23.51.01:006][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.15-23.51.01:016][180]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 0.017
+[2021.11.15-23.51.01:022][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Roughness_4K_oilpt20] ([1] browsable assets)...
+[2021.11.15-23.51.01:028][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Roughness_4K_oilpt20.Roughness_4K_oilpt20]
+[2021.11.15-23.51.01:028][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Roughness_4K_oilpt20]
+[2021.11.15-23.51.01:090][180]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Roughness_4K_oilpt20_Auto382DB89774679DA2E2792DC9ADD497FD3.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Roughness_4K_oilpt20_Auto3.uasset'
+[2021.11.15-23.51.01:091][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Normal_4K_oilpt20] ([1] browsable assets)...
+[2021.11.15-23.51.01:097][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Normal_4K_oilpt20.Normal_4K_oilpt20]
+[2021.11.15-23.51.01:097][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Normal_4K_oilpt20]
+[2021.11.15-23.51.01:164][180]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Normal_4K_oilpt20_Auto3F39C78F84C75DBE0FF89128292595A93.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Normal_4K_oilpt20_Auto3.uasset'
+[2021.11.15-23.51.01:165][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Displacement_4K_oilpt20] ([1] browsable assets)...
+[2021.11.15-23.51.01:171][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Displacement_4K_oilpt20.Displacement_4K_oilpt20]
+[2021.11.15-23.51.01:171][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Displacement_4K_oilpt20]
+[2021.11.15-23.51.01:306][180]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Displacement_4K_oilpt20_Auto31CA00C434E001BB69ECE8DB5B3214571.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Displacement_4K_oilpt20_Auto3.uasset'
+[2021.11.15-23.51.01:307][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Albedo_4K_oilpt20] ([1] browsable assets)...
+[2021.11.15-23.51.01:313][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Albedo_4K_oilpt20.Albedo_4K_oilpt20]
+[2021.11.15-23.51.01:313][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Albedo_4K_oilpt20]
+[2021.11.15-23.51.01:374][180]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Albedo_4K_oilpt20_Auto32065AD514ABA739C77D00CAE18512B04.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Albedo_4K_oilpt20_Auto3.uasset'
+[2021.11.15-23.51.01:374][180]LogFileHelpers: Auto-saving content packages took 0.359
+[2021.11.15-23.51.28:151][545]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Uncut_Grass_oilpt20/Uncut_Grass_oilpt20_inst.Uncut_Grass_oilpt20_inst
+[2021.11.15-23.51.30:407][672]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-23.51.30:407][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-23.51.35:337][961]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Megascans/Surfaces/Rocky_Steppe_uknicjmmw/LandscapeBase.LandscapeBase
+[2021.11.15-23.51.35:339][961]LogMaterial: Display: Missing cached shader map for material LandscapeBase, compiling. 
+[2021.11.15-23.51.35:406][961]LogMaterial: Display: Missing cached shader map for material LandscapeBase, compiling. 
+[2021.11.15-23.51.35:412][961]LogMaterial: Display: Missing cached shader map for material LandscapeBase, compiling. 
+[2021.11.15-23.51.35:424][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.51.35:429][961]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.51.35:429][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.15-23.51.35:432][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.15-23.51.35:435][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.15-23.51.35:438][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.15-23.51.35:441][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.11.15-23.51.35:445][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.11.15-23.51.35:448][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2021.11.15-23.51.36:442][ 10]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.11.15-23.51.36:442][ 10]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2021.11.15-23.51.36:676][ 24]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2021.11.15-23.51.36:776][ 30]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.11.15-23.51.36:828][ 33]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.11.15-23.51.36:828][ 33]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.11.15-23.51.36:843][ 34]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.11.15-23.51.36:858][ 35]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.11.15-23.51.37:044][ 46]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.11.15-23.51.37:044][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.15-23.51.37:073][ 47]MaterialEditorStats: Base pass shader: 139 instructions
+[2021.11.15-23.51.37:073][ 47]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 217 instructions
+[2021.11.15-23.51.37:073][ 47]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.51.37:073][ 47]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.15-23.51.37:073][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.11.15-23.51.37:073][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.51.37:468][ 70]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.11.15-23.51.37:499][ 72]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.11.15-23.51.37:530][ 74]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.11.15-23.51.37:582][ 77]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.11.15-23.51.37:681][ 83]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.11.15-23.51.37:698][ 84]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.11.15-23.51.37:717][ 85]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.11.15-23.51.37:717][ 85]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.11.15-23.51.38:254][116]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.11.15-23.51.38:286][118]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.11.15-23.51.38:286][118]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.11.15-23.51.38:337][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.15-23.51.38:403][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.15-23.51.38:403][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.11.15-23.51.38:487][130]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.15-23.51.38:487][130]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.15-23.51.38:981][156]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.11.15-23.51.39:038][159]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.51.39:106][163]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.11.15-23.51.39:122][164]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.11.15-23.51.39:174][167]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.11.15-23.51.39:206][169]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.15-23.51.39:258][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.15-23.51.56:567][193]LogSlate: Window 'NewMaterial' being destroyed
+[2021.11.15-23.52.36:444][573]LogSlate: Window 'NewMaterial' being destroyed
+[2021.11.15-23.53.43:030][768]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.53.43:036][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.15-23.53.43:050][768]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.15-23.53.43:051][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.15-23.53.43:054][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.15-23.53.43:057][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.15-23.53.43:061][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.15-23.53.43:065][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2021.11.15-23.53.43:068][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2021.11.15-23.53.43:072][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2021.11.15-23.53.43:075][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2021.11.15-23.53.43:078][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.11.15-23.53.43:082][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.11.15-23.53.43:085][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.11.15-23.53.43:091][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2021.11.15-23.53.43:096][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2021.11.15-23.53.43:102][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2021.11.15-23.53.43:108][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2021.11.15-23.53.43:114][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2021.11.15-23.53.43:120][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2021.11.15-23.53.43:126][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2021.11.15-23.53.43:132][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2021.11.15-23.53.43:138][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2021.11.15-23.53.43:144][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2021.11.15-23.53.43:151][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2021.11.15-23.53.43:156][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2021.11.15-23.53.43:162][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2021.11.15-23.53.43:168][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2021.11.15-23.53.43:997][802]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 101
+[2021.11.15-23.53.43:997][802]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 100
+[2021.11.15-23.53.44:235][815]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 99
+[2021.11.15-23.53.44:333][819]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 98
+[2021.11.15-23.53.44:381][821]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 97
+[2021.11.15-23.53.44:408][822]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 96
+[2021.11.15-23.53.44:408][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 95
+[2021.11.15-23.53.44:457][823]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 94
+[2021.11.15-23.53.44:635][829]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 93
+[2021.11.15-23.53.44:635][829]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 92
+[2021.11.15-23.53.44:694][831]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.53.44:694][831]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.53.44:694][831]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.53.44:694][831]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.53.44:694][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.53.44:694][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.53.44:999][846]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 91
+[2021.11.15-23.53.45:037][848]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 90
+[2021.11.15-23.53.45:090][851]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 89
+[2021.11.15-23.53.45:139][854]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 88
+[2021.11.15-23.53.45:302][863]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 87
+[2021.11.15-23.53.45:302][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 86
+[2021.11.15-23.53.45:302][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 85
+[2021.11.15-23.53.45:373][867]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 84
+[2021.11.15-23.53.45:808][891]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 83
+[2021.11.15-23.53.45:909][897]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 82
+[2021.11.15-23.53.45:930][898]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 81
+[2021.11.15-23.53.45:930][898]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 80
+[2021.11.15-23.53.46:078][907]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 79
+[2021.11.15-23.53.46:094][908]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 78
+[2021.11.15-23.53.46:162][912]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 77
+[2021.11.15-23.53.46:163][912]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 76
+[2021.11.15-23.53.46:626][938]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 75
+[2021.11.15-23.53.46:626][938]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2021.11.15-23.53.46:626][938]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 73
+[2021.11.15-23.53.46:765][946]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 72
+[2021.11.15-23.53.46:846][951]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 71
+[2021.11.15-23.53.46:846][951]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 70
+[2021.11.15-23.53.46:879][953]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 69
+[2021.11.15-23.53.46:897][954]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 68
+[2021.11.15-23.53.47:275][975]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2021.11.15-23.53.47:414][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2021.11.15-23.53.47:446][985]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 65
+[2021.11.15-23.53.47:478][987]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2021.11.15-23.53.47:564][992]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2021.11.15-23.53.47:564][992]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2021.11.15-23.53.47:646][997]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2021.11.15-23.53.47:646][997]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2021.11.15-23.53.48:027][ 18]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 59
+[2021.11.15-23.53.48:094][ 22]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 58
+[2021.11.15-23.53.48:164][ 26]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2021.11.15-23.53.48:231][ 30]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2021.11.15-23.53.48:347][ 37]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2021.11.15-23.53.48:365][ 38]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2021.11.15-23.53.48:381][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 53
+[2021.11.15-23.53.48:381][ 39]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.11.15-23.53.48:832][ 64]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 51
+[2021.11.15-23.53.48:867][ 66]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2021.11.15-23.53.48:881][ 67]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2021.11.15-23.53.48:940][ 70]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2021.11.15-23.53.49:071][ 78]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 47
+[2021.11.15-23.53.49:071][ 78]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.11.15-23.53.49:194][ 85]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2021.11.15-23.53.49:194][ 85]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2021.11.15-23.53.49:556][105]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2021.11.15-23.53.49:644][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2021.11.15-23.53.49:660][111]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2021.11.15-23.53.49:693][113]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.11.15-23.53.49:862][123]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2021.11.15-23.53.49:862][123]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2021.11.15-23.53.49:895][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2021.11.15-23.53.49:914][126]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2021.11.15-23.53.50:365][151]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2021.11.15-23.53.50:398][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.11.15-23.53.50:399][153]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 33
+[2021.11.15-23.53.50:471][157]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.11.15-23.53.50:602][165]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.11.15-23.53.50:602][165]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.11.15-23.53.50:671][169]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2021.11.15-23.53.50:689][170]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.11.15-23.53.51:154][194]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.11.15-23.53.51:190][196]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.11.15-23.53.51:262][200]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.11.15-23.53.51:262][200]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.11.15-23.53.51:386][207]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.11.15-23.53.51:453][211]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.11.15-23.53.51:479][212]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.11.15-23.53.51:480][212]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.11.15-23.53.51:984][240]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.11.15-23.53.51:984][240]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.11.15-23.53.52:001][241]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.11.15-23.53.52:034][243]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.11.15-23.53.52:150][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.11.15-23.53.52:165][251]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.11.15-23.53.52:234][255]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.11.15-23.53.52:267][257]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.11.15-23.53.52:640][277]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.15-23.53.52:742][283]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.11.15-23.53.52:830][288]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.11.15-23.53.52:847][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.15-23.53.52:946][295]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.15-23.53.52:947][295]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.15-23.53.52:996][298]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.15-23.53.53:014][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.15-23.53.53:415][321]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.15-23.53.53:553][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.53.53:569][330]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.15-23.59.27:518][654]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_69.MaterialExpressionTextureCoordinate_0"')'
+[2021.11.15-23.59.27:518][654]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_68.MaterialExpressionConstant_0"')'
+[2021.11.15-23.59.27:533][654]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.59.27:593][655]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.59.28:467][707]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.15-23.59.29:004][739]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.59.29:004][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.59.29:004][739]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.59.29:004][739]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.59.29:004][739]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.59.29:004][739]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.59.32:569][952]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.59.32:582][952]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.59.32:591][952]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2021.11.15-23.59.33:342][994]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.15-23.59.33:343][994]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.15-23.59.33:562][  6]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.15-23.59.33:687][ 13]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.59.33:723][ 15]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.15-23.59.33:948][ 28]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.59.33:948][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.59.33:948][ 28]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.59.33:948][ 28]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.59.33:948][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.59.33:948][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.15-23.59.47:247][364]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.59.47:255][364]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.15-23.59.47:266][365]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.15-23.59.48:007][408]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.15-23.59.48:563][441]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.15-23.59.48:563][441]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.15-23.59.48:563][441]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.15-23.59.48:563][441]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.15-23.59.48:563][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.15-23.59.48:563][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.00.15:209][748]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.00.15:216][748]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.00.15:230][748]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.00.15:326][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.00.16:192][797]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.16-00.00.16:192][797]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.00.16:446][809]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.16-00.00.16:664][814]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.00.16:664][814]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.16-00.00.17:138][825]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.00.17:138][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.00.17:138][825]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.00.17:138][825]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.00.17:138][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.00.17:138][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.01.18:805][364]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.01.18:819][365]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.01.19:805][424]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.16-00.01.20:262][451]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.01.20:262][451]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.01.20:262][451]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.01.20:262][451]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.01.20:262][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.01.20:262][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.01.29:468][  3]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_69.MaterialExpressionTextureCoordinate_0"')'
+[2021.11.16-00.01.29:468][  3]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_68.MaterialExpressionConstant_0"')'
+[2021.11.16-00.01.29:482][  3]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.01.29:553][  4]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.01.29:553][  4]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.01.29:553][  4]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.01.29:553][  4]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.01.29:553][  4]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.01.29:553][  4]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.01.29:554][  4]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.01.29:554][  4]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.01.30:192][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.16-00.01.30:661][ 67]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.01.30:661][ 67]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.01.30:661][ 67]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.01.30:661][ 67]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.01.30:661][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.01.30:661][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.01.33:177][217]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.01.33:258][218]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.01.33:904][254]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.16-00.01.34:356][281]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.01.34:356][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.01.34:356][281]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.01.34:356][281]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.01.34:356][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.01.34:356][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.01.40:152][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_4"')'
+[2021.11.16-00.01.40:152][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_55.MaterialExpressionConstant_6"')'
+[2021.11.16-00.01.40:152][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_11"')'
+[2021.11.16-00.01.40:153][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_11"')'
+[2021.11.16-00.01.40:153][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_11"')'
+[2021.11.16-00.01.40:153][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_60.MaterialExpressionLinearInterpolate_9"')'
+[2021.11.16-00.01.40:153][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_62.MaterialExpressionLinearInterpolate_8"')'
+[2021.11.16-00.01.40:153][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_61.MaterialExpressionLinearInterpolate_7"')'
+[2021.11.16-00.01.40:154][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_49.MaterialExpressionScalarParameter_4"',InputName="Blend Range"))'
+[2021.11.16-00.01.40:154][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_50.MaterialExpressionScalarParameter_5"',InputName="Start Offset"))'
+[2021.11.16-00.01.40:155][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_13"')'
+[2021.11.16-00.01.40:155][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_13"')'
+[2021.11.16-00.01.40:155][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_13"')'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_4"')'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_28.MaterialExpressionConstant_7"')'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_52.MaterialExpressionTextureSample_19"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_25.MaterialExpressionTextureSample_22"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_48.MaterialExpressionMaterialFunctionCall_5"')'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_53.MaterialExpressionTextureSample_20"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_26.MaterialExpressionTextureSample_23"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.16-00.01.40:156][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_48.MaterialExpressionMaterialFunctionCall_5"')'
+[2021.11.16-00.01.40:157][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_51.MaterialExpressionTextureSample_18"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.16-00.01.40:157][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_24.MaterialExpressionTextureSample_21"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2021.11.16-00.01.40:157][628]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_48.MaterialExpressionMaterialFunctionCall_5"')'
+[2021.11.16-00.01.40:176][628]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.01.40:197][628]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.01.40:197][628]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.01.40:197][628]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.01.40:198][628]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.01.40:198][628]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.01.40:198][628]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.01.40:198][628]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.01.40:198][628]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.01.40:247][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2021.11.16-00.01.40:252][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2021.11.16-00.01.40:258][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2021.11.16-00.01.40:262][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2021.11.16-00.01.40:267][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2021.11.16-00.01.40:271][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2021.11.16-00.01.40:276][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2021.11.16-00.01.40:280][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2021.11.16-00.01.40:286][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2021.11.16-00.01.40:291][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2021.11.16-00.01.40:295][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2021.11.16-00.01.40:301][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2021.11.16-00.01.40:829][647]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2021.11.16-00.01.40:883][650]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2021.11.16-00.01.41:112][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2021.11.16-00.01.41:185][667]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 46
+[2021.11.16-00.01.41:284][673]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2021.11.16-00.01.41:284][673]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2021.11.16-00.01.41:300][674]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2021.11.16-00.01.41:316][675]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2021.11.16-00.01.41:484][685]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2021.11.16-00.01.41:512][686]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2021.11.16-00.01.41:514][686]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.01.41:514][686]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.01.41:514][686]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.01.41:514][686]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.01.41:514][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.01.41:514][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.01.41:895][707]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2021.11.16-00.01.42:010][714]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2021.11.16-00.01.42:010][714]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2021.11.16-00.01.42:010][714]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2021.11.16-00.01.42:149][722]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.11.16-00.01.42:169][723]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.11.16-00.01.42:169][723]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.11.16-00.01.42:186][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2021.11.16-00.01.42:723][753]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2021.11.16-00.01.42:723][753]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.11.16-00.01.42:739][754]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.11.16-00.01.42:856][761]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.11.16-00.01.42:892][763]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.11.16-00.01.42:892][763]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.11.16-00.01.42:995][769]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.11.16-00.01.42:995][769]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.11.16-00.01.43:452][793]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.11.16-00.01.43:606][802]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.11.16-00.01.43:606][802]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.11.16-00.01.43:622][803]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.11.16-00.01.43:724][809]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.11.16-00.01.43:724][809]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.11.16-00.01.43:756][811]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.11.16-00.01.43:777][812]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.11.16-00.01.44:176][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.11.16-00.01.44:284][836]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.11.16-00.01.44:307][837]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.11.16-00.01.44:406][843]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.16-00.01.44:406][843]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.16-00.01.44:424][844]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.11.16-00.01.44:509][849]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.16-00.01.44:509][849]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.16-00.01.44:957][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.16-00.01.44:957][874]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.11.16-00.01.45:108][883]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.11.16-00.01.45:108][883]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.11.16-00.01.45:189][888]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.11.16-00.01.45:223][890]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.16-00.01.45:223][890]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.16-00.02.10:492][398]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-00.02.10:493][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-00.02.26:193][331]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.26:202][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.16-00.02.26:213][331]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.16-00.02.26:214][331]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.16-00.02.26:215][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2021.11.16-00.02.26:229][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2021.11.16-00.02.26:244][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2021.11.16-00.02.26:260][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2021.11.16-00.02.26:278][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2021.11.16-00.02.26:289][331]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.27:197][379]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2021.11.16-00.02.27:285][384]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.11.16-00.02.27:418][392]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2021.11.16-00.02.27:570][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.11.16-00.02.27:570][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.11.16-00.02.27:601][403]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.11.16-00.02.27:619][404]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.11.16-00.02.27:668][407]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.11.16-00.02.27:823][416]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.11.16-00.02.28:026][425]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.16-00.02.28:235][437]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.11.16-00.02.28:235][437]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.11.16-00.02.28:235][437]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.11.16-00.02.28:324][442]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.11.16-00.02.28:393][446]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.11.16-00.02.28:411][447]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.11.16-00.02.28:462][450]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.11.16-00.02.28:778][465]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.11.16-00.02.28:881][469]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.11.16-00.02.28:924][472]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.11.16-00.02.29:044][479]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.11.16-00.02.29:101][480]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.11.16-00.02.29:134][481]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.16-00.02.29:158][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.11.16-00.02.29:159][482]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.11.16-00.02.29:523][495]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.11.16-00.02.29:576][496]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.11.16-00.02.29:671][499]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.02.29:671][499]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.11.16-00.02.29:792][501]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.16-00.02.29:837][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.11.16-00.02.29:894][507]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.11.16-00.02.30:166][519]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.16-00.02.30:733][551]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.02.30:733][551]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.02.30:733][551]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.02.30:733][551]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.02.30:733][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.02.30:733][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.02.33:534][717]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.02.33:546][717]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.02.33:547][717]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2021.11.16-00.02.33:554][717]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.34:287][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.16-00.02.34:287][755]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.16-00.02.34:504][768]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.16-00.02.34:606][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.16-00.02.34:652][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.16-00.02.34:671][778]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.16-00.02.34:704][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.16-00.02.34:704][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.11.16-00.02.34:891][791]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.16-00.02.35:037][799]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.02.35:317][815]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.16-00.02.35:317][815]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.02.35:373][818]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.16-00.02.36:145][862]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.02.36:145][862]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.02.36:145][862]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.02.36:145][862]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.02.36:145][862]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.02.36:145][862]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.02.46:107][453]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.46:116][453]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.16-00.02.46:121][453]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.16-00.02.46:122][453]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.46:835][489]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.16-00.02.46:835][489]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.16-00.02.47:110][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.16-00.02.47:204][508]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.16-00.02.47:236][508]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.16-00.02.47:236][508]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.16-00.02.47:239][508]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.16-00.02.47:264][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.16-00.02.47:446][518]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.16-00.02.47:553][524]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.02.47:888][537]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.16-00.02.47:889][537]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.16-00.02.47:913][538]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.16-00.02.48:597][567]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.02.48:597][567]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.02.48:597][567]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.02.48:597][567]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.02.48:597][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.02.48:597][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.02.52:248][784]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.52:259][784]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.02.52:263][784]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.02.52:266][784]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.02.52:987][820]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.16-00.02.52:987][820]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.16-00.02.53:209][833]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.16-00.02.53:293][838]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.16-00.02.53:377][843]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.16-00.02.53:392][844]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.16-00.02.53:406][845]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.16-00.02.53:443][847]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.16-00.02.53:617][857]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.16-00.02.53:728][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.02.53:944][874]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.16-00.02.53:963][875]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.16-00.02.54:109][883]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.16-00.02.54:740][919]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.02.54:740][919]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.02.54:740][919]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.02.54:740][919]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.02.54:740][919]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.02.54:740][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.03.01:115][294]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.01:125][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.16-00.03.01:130][294]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.16-00.03.01:131][294]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.01:848][330]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.16-00.03.01:848][330]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.16-00.03.02:130][345]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.16-00.03.02:212][347]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.16-00.03.02:251][349]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.16-00.03.02:252][349]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.16-00.03.02:299][352]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.16-00.03.02:299][352]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.16-00.03.02:455][360]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.16-00.03.02:639][368]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.03.02:869][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.16-00.03.02:870][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.16-00.03.02:958][376]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.16-00.03.03:616][408]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.03.03:616][408]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.03.03:616][408]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.03.03:616][408]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.03.03:616][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.03.03:616][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.03.05:892][544]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.05:906][544]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2021.11.16-00.03.05:909][544]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.03.05:910][544]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.03.05:913][544]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.06:640][582]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.16-00.03.06:640][582]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.11.16-00.03.06:873][596]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.16-00.03.06:973][602]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.16-00.03.06:973][602]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.11.16-00.03.07:006][604]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.16-00.03.07:039][606]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.16-00.03.07:088][609]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.16-00.03.07:268][619]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.16-00.03.07:408][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.16-00.03.07:636][638]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.16-00.03.07:707][642]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.16-00.03.07:707][642]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.16-00.03.08:405][683]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.03.08:405][683]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.03.08:406][683]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.03.08:406][683]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.03.08:406][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.03.08:406][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.03.19:935][373]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.03.19:950][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.03.20:664][414]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.16-00.03.21:134][442]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.03.21:135][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.03.21:135][442]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.03.21:135][442]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.03.21:135][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.03.21:135][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.03.22:518][525]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.03.22:542][527]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.03.23:253][567]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.16-00.03.24:106][597]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.03.24:106][597]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.03.24:106][597]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.03.24:106][597]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.16-00.03.24:106][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.03.24:106][597]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.03.28:141][609]LogMaterialEditor: Applying material NewMaterial
+[2021.11.16-00.03.28:632][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.16-00.03.28:659][609]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.16-00.03.28:695][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:729][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:767][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:790][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:813][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:840][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:867][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:877][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.28:886][609]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.11.16-00.03.29:012][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.11.16-00.03.29:029][609]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 173
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 172
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 171
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 170
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 160
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 150
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 140
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 130
+[2021.11.16-00.03.29:597][609]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 120
+[2021.11.16-00.03.29:790][609]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 110
+[2021.11.16-00.03.29:790][609]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 100
+[2021.11.16-00.03.29:972][609]TextureStreamingBuild: Display: Compiling optional shaders took 0.950 seconds.
+[2021.11.16-00.03.29:986][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.11.16-00.03.31:136][671]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.11.16-00.03.33:976][671]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 90
+[2021.11.16-00.03.33:976][671]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 80
+[2021.11.16-00.03.34:535][671]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 70
+[2021.11.16-00.03.35:092][671]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2021.11.16-00.03.35:092][671]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2021.11.16-00.03.35:092][671]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.11.16-00.03.35:649][671]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2021.11.16-00.03.35:682][671]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.11.16-00.03.35:926][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NewMaterial" FILE="../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset" SILENT=true
+[2021.11.16-00.03.35:977][671]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/NewMaterialA36CBE924C5ED199F3E52E8FEA112524.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Materials/NewMaterial.uasset'
+[2021.11.16-00.03.36:001][671]AssetCheck: New page: Asset Save: NewMaterial
+[2021.11.16-00.03.36:001][671]LogContentValidation: Display: Validating Material /Game/Materials/NewMaterial.NewMaterial
+[2021.11.16-00.03.36:002][671]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.11.16-00.03.36:002][671]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.11.16-00.03.36:002][671]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.16-00.03.36:002][671]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.16-00.03.36:002][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.16-00.03.36:002][671]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.16-00.03.37:462][753]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.11.16-00.03.38:180][796]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.11.16-00.03.39:273][861]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.11.16-00.03.39:640][883]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.11.16-00.03.39:826][894]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.11.16-00.03.39:892][898]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.16-00.03.40:254][918]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.16-00.03.40:254][918]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.11.16-00.03.40:451][928]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.16-00.03.40:616][938]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.11.16-00.03.40:760][940]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.11.16-00.03.40:791][941]LogShaderCompilers: Warning: Failed to compile Material /Game/Materials/NewMaterial.NewMaterial (MI:/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Landscape_0.LandscapeMaterialInstanceConstant_1746) for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.16-00.03.40:791][941]LogShaderCompilers: Display: 	/Engine/Generated/UniformBuffers/Material.ush(35,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2021.11.16-00.03.40:791][941]LogShaderCompilers: Display: 	/Engine/Generated/UniformBuffers/Material.ush(33,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2021.11.16-00.03.40:791][941]LogShaderCompilers: Warning: Failed to compile Material /Game/Materials/NewMaterial.NewMaterial (MI:/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Landscape_0.LandscapeMaterialInstanceConstant_1748) for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.16-00.03.40:791][941]LogShaderCompilers: Display: 	/Engine/Generated/UniformBuffers/Material.ush(35,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2021.11.16-00.03.40:791][941]LogShaderCompilers: Display: 	/Engine/Generated/UniformBuffers/Material.ush(33,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2021.11.16-00.03.41:182][962]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.16-00.03.41:589][986]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.11.16-00.03.41:692][992]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.16-00.03.41:917][  5]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.16-00.03.43:899][116]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.16-00.03.43:908][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-00.03.43:908][116]PIE: New page: PIE session: Level1 (Nov 15, 2021, 8:03:43 AM)
+[2021.11.16-00.03.43:929][116]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.16-00.03.44:009][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080393s)
+[2021.11.16-00.03.44:010][116]LogAIModule: Creating AISystem for world Level1
+[2021.11.16-00.03.44:010][116]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.11.16-00.03.44:010][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.081670s)
+[2021.11.16-00.03.44:019][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.11.16-00.03.44:022][116]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-00.03.44:022][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-00.03.44:022][116]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.16-00.03.44:022][116]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-00.03.44:025][116]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-00.03.44:025][116]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-00.03.44:036][116]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.16-00.03.44:036][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-00.03.44:036][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-00.03.44:036][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-00.03.44:037][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-00.03.44:037][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.16-00.03.44:037][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.16-00.03.44:050][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.16-00.03.44:050][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.16-00.03.44:050][116]LogInit: FAudioDevice initialized.
+[2021.11.16-00.03.44:050][116]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2021.11.16-00.03.44:063][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.16-00.03.44:074][116]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.15-16.03.44
+[2021.11.16-00.03.44:074][116]LogWorld: Bringing up level for play took: 0.010123
+[2021.11.16-00.03.44:074][116]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.11.16-00.03.44:079][116]PIE: Server logged in
+[2021.11.16-00.03.44:079][116]PIE: Play in editor total start time 0.174 seconds.
+[2021.11.16-00.04.25:552][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-00.04.25:552][601]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.11.16-00.04.25:552][601]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-00.04.25:554][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-00.04.25:560][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-00.04.25:571][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-00.04.25:580][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-00.04.25:581][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-00.04.25:582][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-00.04.25:601][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.16-00.04.25:635][602]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.11.16-00.04.27:724][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.16-00.04.28:943][725]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level15E8D33314E9A482261898BAB1A1905B4.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.11.16-00.04.29:005][725]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataBBDEBB064B922BFE0A0755B009D8DC91.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.11.16-00.04.29:023][725]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.16-00.04.29:023][725]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.11.16-00.04.29:023][725]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
