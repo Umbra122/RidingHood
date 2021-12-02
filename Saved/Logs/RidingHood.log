@@ -1399,3 +1399,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.02-02.34.49:961][401]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.02-02.34.49:961][401]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
 [2021.12.02-02.34.49:962][401]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.35.49:390][ 45]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.35.50:318][100]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.35.56:155][446]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.35.57:140][505]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.01:709][775]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.02:624][829]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.11:395][352]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.12:389][411]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.13:204][459]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.36.22:373][  8]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.23:327][ 65]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.28:444][369]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.28:865][394]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-02.36.51:641][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.02-02.36.53:432][749]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1A373529443B365DA99868CB88128DA47.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.36.53:764][749]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataDC19968744B7B965F34F07A67E5EE8FF.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.36.53:772][749]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.36.53:772][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.36.53:772][749]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.36.56:603][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
