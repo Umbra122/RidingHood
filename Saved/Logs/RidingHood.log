@@ -817,3 +817,585 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.02-01.38.26:710][ 31]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2021.12.02-01.38.26:710][ 31]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/Developers/barre/Collections/' because it could not be accessed. Aborting watch request...
 [2021.12.02-01.38.26:876][ 41]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.12.02-01.39.22:710][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.02-01.39.24:621][380]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1EDC4971F4A3A4B59DB9F588021672D1F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-01.39.25:026][380]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataFABCE2994733D62251C750895E8A5D7A.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-01.39.25:041][380]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-01.39.25:041][380]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-01.39.25:041][380]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-01.39.31:226][436]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.02-01.39.32:445][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2021.12.02-01.39.45:357][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2021.12.02-01.39.46:300][315]Cmd: DELETE
+[2021.12.02-01.39.46:300][315]Cmd: ACTOR DELETE
+[2021.12.02-01.39.46:362][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.39.46:371][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.02-01.39.46:372][315]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_BarkEnd01_D (AutoDXT, 256X256)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_BarkEnd01_H (AutoDXT, 256X256)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_Mud01_D (AutoDXT, 512X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_DirtDec02 (AutoDXT, 1024X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_PlanksOld01_D (AutoDXT, 1024X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_DirtDec02__N (BC5, 1024X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_Mud01_H (AutoDXT, 512X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_PlanksOld01_H (AutoDXT, 1024X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_DirtDec01_N (BC5, 1024X512)
+[2021.12.02-01.39.47:278][357]LogTexture: Display: Building textures: T_MossDec02_N (BC5, 1024X1024)
+[2021.12.02-01.39.47:278][357]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2021.12.02-01.39.48:283][357]LogTexture: Display: Building textures: T_Beam02_D (AutoDXT, 1024X64)
+[2021.12.02-01.39.48:283][357]LogTexture: Display: Building textures: T_DirtDec01 (AutoDXT, 1024X512)
+[2021.12.02-01.39.48:283][357]LogTexture: Display: Building textures: T_MossDec02 (AutoDXT, 1024X1024)
+[2021.12.02-01.39.48:283][357]LogTexture: Display: Building textures: T_Beam02_H (AutoDXT, 1024X64)
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.12.02-01.39.48:283][357]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.12.02-01.39.48:283][357]LogTexture: Display: Building textures: T_Roof01_D (AutoDXT, 1024X1024)
+[2021.12.02-01.39.48:283][357]LogTexture: Display: Building textures: T_Roof01_H (AutoDXT, 1024X1024)
+[2021.12.02-01.39.48:283][357]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2021.12.02-01.39.48:435][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 77
+[2021.12.02-01.39.48:435][357]LogStaticMesh: Building static mesh SM_T-House...
+[2021.12.02-01.39.49:688][357]LogStaticMesh: Built static mesh [1.25s] /Game/VikingVillage/StaticMeshes/SM_T-House.SM_T-House
+[2021.12.02-01.39.49:745][357]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2021.12.02-01.39.49:853][357]LogActorFactory: Actor Factory created SM_T-House
+[2021.12.02-01.39.50:773][403]LogActorFactory: Actor Factory created SM_T-House
+[2021.12.02-01.39.52:528][471]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 144
+[2021.12.02-01.39.52:890][487]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.39.54:402][555]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 134
+[2021.12.02-01.39.54:589][565]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 124
+[2021.12.02-01.39.54:608][566]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 114
+[2021.12.02-01.39.55:380][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 104
+[2021.12.02-01.39.55:846][625]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 94
+[2021.12.02-01.39.55:902][627]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 84
+[2021.12.02-01.39.55:920][628]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 74
+[2021.12.02-01.40.00:998][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 64
+[2021.12.02-01.40.02:116][927]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2021.12.02-01.40.03:079][974]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2021.12.02-01.40.03:499][992]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2021.12.02-01.40.03:838][  8]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.12.02-01.40.04:913][ 52]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.12.02-01.40.05:443][ 80]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.12.02-01.40.05:830][ 99]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.12.02-01.40.08:019][195]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.12.02-01.40.08:264][208]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.12.02-01.40.08:526][221]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.12.02-01.40.09:189][254]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.12.02-01.40.09:189][254]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.12.02-01.40.09:395][263]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.12.02-01.40.09:972][290]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.12.02-01.40.10:062][294]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.12.02-01.40.10:167][299]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.12.02-01.40.10:188][300]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.12.02-01.40.10:876][328]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.02-01.40.11:038][335]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.12.02-01.40.39:654][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.02-01.40.39:672][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-01.40.39:673][ 39]PIE: New page: PIE session: Level1 (Dec 1, 2021, 9:40:39 AM)
+[2021.12.02-01.40.39:676][ 39]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.02-01.40.39:678][ 39]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.02-01.40.39:678][ 39]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.02-01.40.39:856][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177809s)
+[2021.12.02-01.40.39:857][ 39]LogAIModule: Creating AISystem for world Level1
+[2021.12.02-01.40.39:857][ 39]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2021.12.02-01.40.39:857][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.179448s)
+[2021.12.02-01.40.39:865][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.12.02-01.40.39:887][ 39]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-01.40.39:887][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-01.40.39:887][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-01.40.39:888][ 39]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-01.40.39:888][ 39]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-01.40.39:890][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-01.40.39:890][ 39]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-01.40.39:904][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-01.40.39:919][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-01.40.39:919][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-01.40.39:919][ 39]LogInit: FAudioDevice initialized.
+[2021.12.02-01.40.39:919][ 39]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.12.02-01.40.39:942][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.02-01.40.39:964][ 39]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.12.01-17.40.39
+[2021.12.02-01.40.39:965][ 39]LogWorld: Bringing up level for play took: 0.020797
+[2021.12.02-01.40.39:965][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.12.02-01.40.39:973][ 39]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.02-01.40.39:982][ 39]PIE: Server logged in
+[2021.12.02-01.40.39:984][ 39]PIE: Play in editor total start time 0.317 seconds.
+[2021.12.02-01.41.36:016][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-01.41.36:016][395]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.02-01.41.36:018][395]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-01.41.36:020][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-01.41.36:028][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-01.41.36:043][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-01.41.36:051][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-01.41.36:052][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-01.41.36:053][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-01.41.36:067][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-01.41.36:075][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.12.02-01.41.36:121][396]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.12.02-01.41.47:045][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.02-01.41.48:813][ 28]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1E523FDC84B42F97F17D496AAC11B2263.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-01.41.49:144][ 28]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData0CD362D14CF687F2D7F9489E665E5957.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-01.41.49:158][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-01.41.49:158][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-01.41.49:158][ 28]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-01.42.01:629][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.12.02-01.42.02:355][811]Cmd: DELETE
+[2021.12.02-01.42.02:355][811]Cmd: ACTOR DELETE
+[2021.12.02-01.42.02:408][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.42.02:415][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.12.02-01.42.02:416][811]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.12.02-01.42.13:969][341]LogTexture: Display: Building textures: T_elderhouse_diff (AutoDXT, 2048X2048)
+[2021.12.02-01.42.13:969][341]LogTexture: Display: Building textures: T_elderhouse_h (AutoDXT, 2048X2048)
+[2021.12.02-01.42.13:969][341]LogStaticMesh: Building static mesh SM_elderhouse...
+[2021.12.02-01.42.14:623][341]LogStaticMesh: Built static mesh [0.65s] /Game/VikingVillage/StaticMeshes/SM_elderhouse.SM_elderhouse
+[2021.12.02-01.42.14:686][341]LogActorFactory: Actor Factory created SM_elderhouse
+[2021.12.02-01.42.15:702][396]LogActorFactory: Actor Factory created SM_elderhouse
+[2021.12.02-01.42.16:409][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.42.24:388][914]LogStaticMesh: Building static mesh SM_festivalhall...
+[2021.12.02-01.42.24:762][914]LogTexture: Display: Building textures: T_festivalhall_diff (AutoDXT, 2048X2048)
+[2021.12.02-01.42.24:762][914]LogTexture: Display: Building textures: T_festivalhall_h (AutoDXT, 2048X2048)
+[2021.12.02-01.42.24:924][914]LogStaticMesh: Built static mesh [0.54s] /Game/VikingVillage/StaticMeshes/SM_festivalhall.SM_festivalhall
+[2021.12.02-01.42.26:745][914]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.42.27:427][953]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.42.30:669][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall)
+[2021.12.02-01.42.31:238][180]Cmd: DELETE
+[2021.12.02-01.42.31:238][180]Cmd: ACTOR DELETE
+[2021.12.02-01.42.31:292][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.42.31:300][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.02-01.42.31:303][180]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.12.02-01.42.44:200][859]LogTexture: Display: Building textures: T_bazaarhall_diff (AutoDXT, 2048X2048)
+[2021.12.02-01.42.44:200][859]LogTexture: Display: Building textures: T_bazaarhall_nmap (BC5, 2048X2048)
+[2021.12.02-01.42.44:200][859]LogStaticMesh: Building static mesh SM_bazaarhall...
+[2021.12.02-01.42.44:586][859]LogStaticMesh: Built static mesh [0.39s] /Game/VikingVillage/StaticMeshes/SM_bazaarhall.SM_bazaarhall
+[2021.12.02-01.42.44:623][859]LogActorFactory: Actor Factory created SM_bazaarhall
+[2021.12.02-01.42.45:277][898]LogActorFactory: Actor Factory created SM_bazaarhall
+[2021.12.02-01.42.46:083][945]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.44.11:255][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.44.53:769][587]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.44.54:439][627]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.04:764][243]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.05:635][295]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.13:258][749]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.14:164][803]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.24:557][422]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.25:663][488]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.37:354][185]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.38:291][241]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.41:078][405]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.42:270][476]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.48:088][823]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.49:099][883]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.52:007][ 54]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.54:751][217]LogActorFactory: Actor Factory created SM_festivalhall
+[2021.12.02-01.45.57:765][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall8)
+[2021.12.02-01.46.06:793][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.12.02-01.46.08:563][928]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level19A8FD32C41E1BBF88A023CA765E5EA6D.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-01.46.08:894][928]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData7D582BD04BEF98FFCBED12B66B849206.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-01.46.08:904][928]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-01.46.08:905][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-01.46.08:905][928]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-01.49.16:533][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall8)
+[2021.12.02-01.49.17:357][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bazaarhall)
+[2021.12.02-01.49.17:557][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.49.18:011][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.49.24:938][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall8)
+[2021.12.02-01.49.30:923][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall7)
+[2021.12.02-01.49.31:617][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.49.41:652][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall)
+[2021.12.02-01.49.46:380][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall2)
+[2021.12.02-01.49.53:592][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall3)
+[2021.12.02-01.49.59:169][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall4)
+[2021.12.02-01.50.04:479][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall5)
+[2021.12.02-01.50.11:822][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall6)
+[2021.12.02-01.50.17:198][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_festivalhall7)
+[2021.12.02-01.50.30:510][603]Cmd: TRANSACTION UNDO
+[2021.12.02-01.50.30:510][603]LogEditorTransaction: Undo Rotate Actors
+[2021.12.02-01.50.31:307][645]Cmd: TRANSACTION UNDO
+[2021.12.02-01.50.31:307][645]LogEditorTransaction: Undo Move Actors
+[2021.12.02-01.50.32:057][690]Cmd: TRANSACTION UNDO
+[2021.12.02-01.50.32:057][690]LogEditorTransaction: Undo Move Actors
+[2021.12.02-01.50.54:115][925]LogTexture: Display: Building textures: T_Wheel01_D (AutoDXT, 512X512)
+[2021.12.02-01.50.54:115][925]LogTexture: Display: Building textures: T_Wheel01_H (AutoDXT, 512X512)
+[2021.12.02-01.50.54:115][925]LogTexture: Display: Building textures: T_MetalWorn01_D (AutoDXT, 1024X1024)
+[2021.12.02-01.50.54:116][925]LogTexture: Display: Building textures: T_PlanksOld02_D (AutoDXT, 1024X1024)
+[2021.12.02-01.50.54:116][925]LogTexture: Display: Building textures: T_MetalWorn01_H (AutoDXT, 1024X1024)
+[2021.12.02-01.50.54:116][925]LogTexture: Display: Building textures: T_PlanksOld02_H (AutoDXT, 1024X1024)
+[2021.12.02-01.50.54:116][925]LogStaticMesh: Building static mesh SM_Haywagon...
+[2021.12.02-01.50.54:326][925]LogStaticMesh: Built static mesh [0.21s] /Game/VikingVillage/StaticMeshes/SM_Haywagon.SM_Haywagon
+[2021.12.02-01.50.54:354][925]LogActorFactory: Actor Factory created SM_Haywagon
+[2021.12.02-01.50.55:925][ 19]LogActorFactory: Actor Factory created SM_Haywagon
+[2021.12.02-01.51.06:124][597]LogTexture: Display: Building textures: T_wood_1 (AutoDXT, 1024X256)
+[2021.12.02-01.51.06:124][597]LogTexture: Display: Building textures: T_wood_1N (BC5, 1024X256)
+[2021.12.02-01.51.06:124][597]LogTexture: Display: Building textures: T_strawalpha_n (BC5, 1024X1024)
+[2021.12.02-01.51.06:124][597]LogTexture: Display: Building textures: T_strawalpha_d (AutoDXT, 1024X1024)
+[2021.12.02-01.51.06:124][597]LogStaticMesh: Building static mesh SM_StrawHold...
+[2021.12.02-01.51.06:274][597]LogStaticMesh: Built static mesh [0.15s] /Game/VikingVillage/StaticMeshes/SM_StrawHold.SM_StrawHold
+[2021.12.02-01.51.06:304][597]LogActorFactory: Actor Factory created SM_StrawHold
+[2021.12.02-01.51.07:290][656]LogActorFactory: Actor Factory created SM_StrawHold
+[2021.12.02-01.51.12:415][962]Cmd: TRANSACTION UNDO
+[2021.12.02-01.51.12:415][962]LogEditorTransaction: Undo Move Actors
+[2021.12.02-01.51.12:750][978]Cmd: TRANSACTION UNDO
+[2021.12.02-01.51.12:750][978]LogEditorTransaction: Undo Create Actors
+[2021.12.02-01.51.13:865][ 37]LogTexture: Display: Building textures: T_straw_d (AutoDXT, 512X512)
+[2021.12.02-01.51.13:865][ 37]LogStaticMesh: Building static mesh SM_StrawBlast...
+[2021.12.02-01.51.13:883][ 37]LogTexture: Display: Building textures: T_straw_dN (BC5, 512X512)
+[2021.12.02-01.51.14:813][ 37]LogStaticMesh: Built static mesh [0.95s] /Game/VikingVillage/StaticMeshes/SM_StrawBlast.SM_StrawBlast
+[2021.12.02-01.51.14:857][ 37]LogActorFactory: Actor Factory created SM_StrawBlast
+[2021.12.02-01.51.18:494][255]LogActorFactory: Actor Factory created SM_StrawBlast
+[2021.12.02-01.51.38:482][153]LogTexture: Display: Building textures: T_woodBars_Normal (BC5, 4096X4096)
+[2021.12.02-01.51.38:482][153]LogTexture: Display: Building textures: T_woodBars_Albedo (AutoDXT, 4096X4096)
+[2021.12.02-01.51.38:482][153]LogStaticMesh: Building static mesh SM_WatchTower...
+[2021.12.02-01.51.39:252][153]LogStaticMesh: Built static mesh [0.77s] /Game/VikingVillage/StaticMeshes/SM_WatchTower.SM_WatchTower
+[2021.12.02-01.51.39:322][153]LogActorFactory: Actor Factory created SM_WatchTower
+[2021.12.02-01.51.40:895][240]LogActorFactory: Actor Factory created SM_WatchTower
+[2021.12.02-01.51.41:785][292]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.52.04:758][650]LogMaterial: Display: Missing cached shader map for material MasterMaterialLevel1, compiling. 
+[2021.12.02-01.52.04:767][650]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.12.02-01.52.04:767][650]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.12.02-01.52.04:767][650]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.12.02-01.52.04:767][650]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.12.02-01.52.04:767][650]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.12.02-01.52.04:767][650]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.12.02-01.52.04:769][650]LogMaterial: Display: Missing cached shader map for material MasterMaterialLevel1, compiling. 
+[2021.12.02-01.52.04:778][650]LogMaterial: Display: Missing cached shader map for material MasterMaterialLevel1, compiling. 
+[2021.12.02-01.52.04:787][650]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.12.02-01.52.04:855][650]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.12.02-01.52.04:855][650]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.12.02-01.52.04:880][650]LogSlate: Took 0.008701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.02-01.52.05:839][699]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.02-01.52.05:839][699]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.12.02-01.52.06:182][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.12.02-01.52.06:322][727]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.12.02-01.52.06:356][729]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.12.02-01.52.06:390][731]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.02-01.52.14:082][188]Cmd: TRANSACTION UNDO
+[2021.12.02-01.52.14:082][188]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.12.02-01.52.14:104][188]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2021.12.02-01.52.14:105][188]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2021.12.02-01.52.14:107][188]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2021.12.02-01.52.14:108][188]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2021.12.02-01.52.26:054][898]Cmd: TRANSACTION UNDO
+[2021.12.02-01.52.26:054][898]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.12.02-01.52.26:065][898]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2021.12.02-01.52.26:066][898]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2021.12.02-01.52.26:067][898]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2021.12.02-01.52.26:069][898]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2021.12.02-01.52.26:420][915]Cmd: TRANSACTION UNDO
+[2021.12.02-01.52.26:420][915]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.12.02-01.52.26:433][915]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2021.12.02-01.52.26:434][915]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2021.12.02-01.52.26:435][915]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2021.12.02-01.52.26:437][915]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2021.12.02-01.52.27:164][956]Cmd: TRANSACTION UNDO
+[2021.12.02-01.52.27:164][956]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.12.02-01.52.27:176][956]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2021.12.02-01.52.27:178][956]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2021.12.02-01.52.27:179][956]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2021.12.02-01.52.27:180][956]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2021.12.02-01.52.32:257][260]Cmd: TRANSACTION UNDO
+[2021.12.02-01.52.32:257][260]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.12.02-01.52.32:268][260]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2021.12.02-01.52.32:269][260]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2021.12.02-01.52.32:270][260]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2021.12.02-01.52.32:272][260]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2021.12.02-01.53.01:193][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.12.02-01.53.01:570][  6]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.53.04:138][160]Cmd: DELETE
+[2021.12.02-01.53.04:138][160]Cmd: ACTOR DELETE
+[2021.12.02-01.53.04:191][160]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.53.04:208][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.02-01.53.04:215][160]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2021.12.02-01.53.09:423][368]LogTexture: Display: Building textures: T_villagehouse2_diff (AutoDXT, 2048X2048)
+[2021.12.02-01.53.09:424][368]LogTexture: Display: Building textures: T_villagehouse2_N (BC5, 2048X2048)
+[2021.12.02-01.53.09:424][368]LogStaticMesh: Building static mesh SM_villagehouse2...
+[2021.12.02-01.53.09:755][368]LogStaticMesh: Built static mesh [0.33s] /Game/VikingVillage/StaticMeshes/SM_villagehouse2.SM_villagehouse2
+[2021.12.02-01.53.09:787][368]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-01.53.10:533][412]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-01.53.20:127][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.12.02-01.53.20:856][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.53.22:691][137]Cmd: DELETE
+[2021.12.02-01.53.22:691][137]Cmd: ACTOR DELETE
+[2021.12.02-01.53.22:746][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.53.22:763][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.12.02-01.53.22:766][137]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2021.12.02-01.53.28:461][475]LogStaticMesh: Building static mesh SM_Longhouse...
+[2021.12.02-01.53.28:941][475]LogStaticMesh: Built static mesh [0.48s] /Game/VikingVillage/StaticMeshes/SM_Longhouse.SM_Longhouse
+[2021.12.02-01.53.28:976][475]LogActorFactory: Actor Factory created SM_Longhouse
+[2021.12.02-01.53.30:452][563]LogActorFactory: Actor Factory created SM_Longhouse
+[2021.12.02-01.53.51:116][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2021.12.02-01.53.52:059][854]Cmd: DELETE
+[2021.12.02-01.53.52:059][854]Cmd: ACTOR DELETE
+[2021.12.02-01.53.52:112][854]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.53.52:120][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.02-01.53.52:121][854]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.12.02-01.54.08:157][813]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-01.54.09:293][881]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-01.54.10:347][943]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.17:581][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2021.12.02-01.54.18:475][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.19:692][502]Cmd: DELETE
+[2021.12.02-01.54.19:692][502]Cmd: ACTOR DELETE
+[2021.12.02-01.54.19:754][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.54.19:780][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.02-01.54.19:782][502]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2021.12.02-01.54.20:512][543]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-01.54.21:565][606]LogActorFactory: Actor Factory created SM_villagehouse2
+[2021.12.02-01.54.48:906][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube52)
+[2021.12.02-01.54.49:168][255]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.52:563][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.53:096][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.54:714][587]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.55:170][614]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.54.58:410][808]Cmd: DELETE
+[2021.12.02-01.54.58:410][808]Cmd: ACTOR DELETE
+[2021.12.02-01.54.58:463][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-01.54.58:473][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.12.02-01.54.58:474][808]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.12.02-01.55.03:952][133]LogActorFactory: Actor Factory created SM_elderhouse
+[2021.12.02-01.55.08:071][380]LogActorFactory: Actor Factory created SM_elderhouse
+[2021.12.02-01.55.10:734][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.55.30:555][714]Cmd: TRANSACTION UNDO
+[2021.12.02-01.55.30:555][714]LogEditorTransaction: Undo Scale Actors
+[2021.12.02-01.55.31:319][753]Cmd: TRANSACTION UNDO
+[2021.12.02-01.55.31:319][753]LogEditorTransaction: Undo Rotate Actors
+[2021.12.02-01.55.31:690][774]Cmd: TRANSACTION UNDO
+[2021.12.02-01.55.31:690][774]LogEditorTransaction: Undo Create Actors
+[2021.12.02-01.55.51:075][923]LogActorFactory: Actor Factory created SM_T-House
+[2021.12.02-01.55.51:678][959]LogActorFactory: Actor Factory created SM_T-House
+[2021.12.02-01.55.54:868][148]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.56.31:214][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_elderhouse)
+[2021.12.02-01.56.42:533][  2]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.56.51:195][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.02-01.56.51:291][358]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2021.12.02-01.56.51:292][358]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2021.12.02-01.56.51:292][358]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2021.12.02-01.56.51:293][358]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2021.12.02-01.56.51:296][358]LogTexture: Display: Building textures: Texture2D_446 (BGRA8, 64X64)
+[2021.12.02-01.56.51:296][358]LogTexture: Display: Building textures: Texture2D_447 (BGRA8, 64X64)
+[2021.12.02-01.56.53:057][358]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1D4E2669744AD9CB2FD3581B914FAA80E.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-01.56.53:398][358]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData6996930C4B93C5416993C99E852B3A95.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-01.56.53:412][358]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-01.56.53:412][358]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-01.56.53:412][358]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-01.57.05:772][ 91]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.57.27:561][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BridgePart3)
+[2021.12.02-01.57.28:335][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.57.32:941][925]LogStaticMesh: Building static mesh SM_gate...
+[2021.12.02-01.57.33:274][925]LogStaticMesh: Built static mesh [0.33s] /Game/VikingVillage/StaticMeshes/SM_gate.SM_gate
+[2021.12.02-01.57.33:304][925]LogActorFactory: Actor Factory created SM_gate
+[2021.12.02-01.57.35:121][ 34]LogActorFactory: Actor Factory created SM_gate
+[2021.12.02-01.57.35:903][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-01.57.42:715][487]Cmd: TRANSACTION UNDO
+[2021.12.02-01.57.42:715][487]LogEditorTransaction: Undo Scale Actors
+[2021.12.02-01.58.21:276][786]LogStaticMesh: Building static mesh SM_woodWall...
+[2021.12.02-01.58.22:370][786]LogStaticMesh: Built static mesh [1.09s] /Game/VikingVillage/StaticMeshes/SM_woodWall.SM_woodWall
+[2021.12.02-01.58.22:890][814]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-01.58.24:042][883]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-01.58.24:343][901]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-01.59.01:411][118]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_woodWall)
+[2021.12.02-01.59.25:610][552]Cmd: TRANSACTION UNDO
+[2021.12.02-01.59.25:610][552]LogEditorTransaction: Undo Move Actors
+[2021.12.02-01.59.32:465][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.02-01.59.34:261][951]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level13323A4A94FBD1CCEC1565DB424D5CD25.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-01.59.34:589][951]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData25A4D15844897197E8710794FFAA2381.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-01.59.34:602][951]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-01.59.34:602][951]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-01.59.34:602][951]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-01.59.37:925][149]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_woodWall)
+[2021.12.02-01.59.46:264][641]Cmd: DUPLICATE
+[2021.12.02-01.59.46:265][641]Cmd: ACTOR DUPLICATE
+[2021.12.02-02.00.11:622][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.00.24:864][943]LogActorFactory: Actor Factory created SM_gate
+[2021.12.02-02.00.26:554][ 43]LogActorFactory: Actor Factory created SM_gate
+[2021.12.02-02.00.43:686][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.02-02.00.45:512][ 62]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level10E4175B346054A43BB4613A2B579EF26.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.00.45:843][ 62]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataF9334D82414823832EAA39831950F24F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.00.45:858][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.00.45:858][ 62]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.00.45:858][ 62]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.20.00:644][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.12.02-02.22.21:808][277]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.02-02.22.22:968][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_gate2)
+[2021.12.02-02.22.23:967][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.22.27:700][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_gate2)
+[2021.12.02-02.22.43:838][589]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-02.22.45:016][659]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-02.23.11:260][229]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-02.23.12:200][285]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-02.24.47:719][  1]LogActorFactory: Actor Factory created SM_WatchTower
+[2021.12.02-02.24.48:238][ 32]LogActorFactory: Actor Factory created SM_WatchTower
+[2021.12.02-02.24.59:179][687]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_WatchTower2_85.StaticMeshComponent0)
+[2021.12.02-02.24.59:396][700]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_WatchTower2_85.StaticMeshComponent0)
+[2021.12.02-02.25.02:046][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WatchTower2)
+[2021.12.02-02.25.02:932][912]Cmd: DELETE
+[2021.12.02-02.25.02:932][912]Cmd: ACTOR DELETE
+[2021.12.02-02.25.02:984][912]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-02.25.02:993][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.02-02.25.02:994][912]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.12.02-02.25.07:220][164]LogStaticMesh: Building static mesh SM_shack2...
+[2021.12.02-02.25.07:555][164]LogStaticMesh: Built static mesh [0.33s] /Game/VikingVillage/StaticMeshes/SM_shack2.SM_shack2
+[2021.12.02-02.25.07:587][164]LogActorFactory: Actor Factory created SM_shack2
+[2021.12.02-02.25.08:112][195]LogActorFactory: Actor Factory created SM_shack2
+[2021.12.02-02.25.11:204][379]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shack2_88.StaticMeshComponent0)
+[2021.12.02-02.25.11:371][389]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shack2_88.StaticMeshComponent0)
+[2021.12.02-02.25.16:597][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_shack2)
+[2021.12.02-02.25.17:852][777]Cmd: DELETE
+[2021.12.02-02.25.17:852][777]Cmd: ACTOR DELETE
+[2021.12.02-02.25.17:905][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-02.25.17:912][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.02-02.25.17:913][777]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.12.02-02.25.28:850][ 78]LogTexture: Display: Building textures: T_shield_Albedo (AutoDXT, 4096X4096)
+[2021.12.02-02.25.28:850][ 78]LogTexture: Display: Building textures: T_shield_Normal (BC5, 4096X4096)
+[2021.12.02-02.25.28:850][ 78]LogStaticMesh: Building static mesh SM_shield2...
+[2021.12.02-02.25.29:151][ 78]LogStaticMesh: Built static mesh [0.30s] /Game/VikingVillage/StaticMeshes/SM_shield2.SM_shield2
+[2021.12.02-02.25.29:198][ 78]LogActorFactory: Actor Factory created SM_shield2
+[2021.12.02-02.25.30:565][150]LogActorFactory: Actor Factory created SM_shield2
+[2021.12.02-02.25.31:456][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.25.41:998][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_shield2)
+[2021.12.02-02.25.53:955][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_shield2)
+[2021.12.02-02.26.06:269][285]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.02-02.26.10:751][550]LogStaticMesh: Building static mesh SM_shield13...
+[2021.12.02-02.26.11:050][550]LogStaticMesh: Built static mesh [0.30s] /Game/VikingVillage/StaticMeshes/SM_shield13.SM_shield13
+[2021.12.02-02.26.11:083][550]LogActorFactory: Actor Factory created SM_shield13
+[2021.12.02-02.26.12:367][626]LogActorFactory: Actor Factory created SM_shield13
+[2021.12.02-02.26.19:780][ 68]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shield13_94.StaticMeshComponent0)
+[2021.12.02-02.26.19:830][ 71]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shield13_94.StaticMeshComponent0)
+[2021.12.02-02.26.21:245][156]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shield13_94.StaticMeshComponent0)
+[2021.12.02-02.26.21:296][159]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shield13_94.StaticMeshComponent0)
+[2021.12.02-02.26.23:279][278]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shield13_94.StaticMeshComponent0)
+[2021.12.02-02.26.24:380][344]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.SM_shield13_94.StaticMeshComponent0)
+[2021.12.02-02.27.02:512][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.02-02.27.02:607][621]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2021.12.02-02.27.02:608][621]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2021.12.02-02.27.02:608][621]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2021.12.02-02.27.02:609][621]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2021.12.02-02.27.02:609][621]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2021.12.02-02.27.02:617][621]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2021.12.02-02.27.04:265][621]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1448A0B3C483FD2150560078719AD3DC5.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.27.04:601][621]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData1BA033E94EF72B474610FC9A5BC51BD8.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.27.04:610][621]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.27.04:610][621]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.27.04:610][621]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.27.16:000][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.02-02.27.17:747][296]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level14968FA5F43DCA93C115E968597F4010D.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.27.18:075][296]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataBD55E3A14FB392F0572A58BD6B5889DE.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.27.18:092][296]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.27.18:093][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.27.18:093][296]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.29.01:007][460]LogStaticMesh: Building static mesh SM_shield1...
+[2021.12.02-02.29.01:303][460]LogStaticMesh: Built static mesh [0.30s] /Game/VikingVillage/StaticMeshes/SM_shield1.SM_shield1
+[2021.12.02-02.29.01:578][475]LogActorFactory: Actor Factory created SM_shield1
+[2021.12.02-02.29.03:788][607]LogActorFactory: Actor Factory created SM_shield1
+[2021.12.02-02.29.08:252][873]Cmd: TRANSACTION UNDO
+[2021.12.02-02.29.08:252][873]LogEditorTransaction: Undo Move Actors
+[2021.12.02-02.29.59:812][953]LogStaticMesh: Building static mesh SM_shield6...
+[2021.12.02-02.30.00:124][953]LogStaticMesh: Built static mesh [0.31s] /Game/VikingVillage/StaticMeshes/SM_shield6.SM_shield6
+[2021.12.02-02.30.00:184][955]LogActorFactory: Actor Factory created SM_shield6
+[2021.12.02-02.30.01:474][ 32]LogActorFactory: Actor Factory created SM_shield6
+[2021.12.02-02.30.49:265][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.12.02-02.30.50:995][888]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level14768A4D44D89A7D53C5147935B246DA1.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.30.51:327][888]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData70C5C24B462A83810588BFB58F2F7D88.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.30.51:343][888]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.30.51:343][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.30.51:343][888]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.31.20:240][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EntranceRock)
+[2021.12.02-02.31.21:234][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.31.21:734][709]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.31.22:285][742]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.32.02:570][126]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-02.32.05:448][298]LogActorFactory: Actor Factory created SM_woodWall
+[2021.12.02-02.32.07:446][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_woodWall5)
+[2021.12.02-02.32.07:967][447]Cmd: DELETE
+[2021.12.02-02.32.07:967][447]Cmd: ACTOR DELETE
+[2021.12.02-02.32.08:021][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-02.32.08:029][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.02-02.32.08:031][447]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.12.02-02.32.09:728][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EntranceRock)
+[2021.12.02-02.32.19:105][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2021.12.02-02.32.19:915][156]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.32.26:632][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2021.12.02-02.32.27:051][584]Cmd: DELETE
+[2021.12.02-02.32.27:051][584]Cmd: ACTOR DELETE
+[2021.12.02-02.32.27:103][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-02.32.27:130][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.02-02.32.27:132][584]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.12.02-02.32.43:744][566]LogActorFactory: Actor Factory created SM_Longhouse
+[2021.12.02-02.32.44:654][620]LogActorFactory: Actor Factory created SM_Longhouse
+[2021.12.02-02.32.45:541][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.33.04:708][812]LogStaticMesh: Building static mesh SM_shack1...
+[2021.12.02-02.33.05:239][812]LogStaticMesh: Built static mesh [0.53s] /Game/VikingVillage/StaticMeshes/SM_shack1.SM_shack1
+[2021.12.02-02.33.05:279][812]LogActorFactory: Actor Factory created SM_shack1
+[2021.12.02-02.33.06:368][877]LogActorFactory: Actor Factory created SM_shack1
+[2021.12.02-02.33.08:182][984]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.33.15:551][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.33.26:491][ 17]LogTexture: Display: Building textures: T_strawStamp_N (BC5, 512X512)
+[2021.12.02-02.33.26:491][ 17]LogTexture: Display: Building textures: T_strawStamppp (AutoDXT, 512X512)
+[2021.12.02-02.33.26:491][ 17]LogStaticMesh: Building static mesh SM_StrawStamp1...
+[2021.12.02-02.33.26:518][ 17]LogStaticMesh: Built static mesh [0.03s] /Game/VikingVillage/StaticMeshes/SM_StrawStamp1.SM_StrawStamp1
+[2021.12.02-02.33.26:585][ 20]LogActorFactory: Actor Factory created SM_StrawStamp1
+[2021.12.02-02.33.28:013][105]LogActorFactory: Actor Factory created SM_StrawStamp1
+[2021.12.02-02.33.37:549][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_StrawStamp1)
+[2021.12.02-02.33.38:168][712]Cmd: DELETE
+[2021.12.02-02.33.38:168][712]Cmd: ACTOR DELETE
+[2021.12.02-02.33.38:220][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.02-02.33.38:228][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.02-02.33.38:230][712]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.12.02-02.33.39:094][764]LogStaticMesh: Building static mesh SM_Sack...
+[2021.12.02-02.33.39:108][764]LogTexture: Display: Building textures: T_Sack01_D (AutoDXT, 512X512)
+[2021.12.02-02.33.39:169][764]LogTexture: Display: Building textures: T_Sack01_H (AutoDXT, 512X512)
+[2021.12.02-02.33.39:169][764]LogStaticMesh: Built static mesh [0.08s] /Game/VikingVillage/StaticMeshes/SM_Sack.SM_Sack
+[2021.12.02-02.33.39:291][764]LogActorFactory: Actor Factory created SM_Sack
+[2021.12.02-02.33.40:563][837]LogActorFactory: Actor Factory created SM_Sack
+[2021.12.02-02.33.44:475][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.33.50:038][402]LogActorFactory: Actor Factory created SM_Sack
+[2021.12.02-02.33.51:011][460]LogActorFactory: Actor Factory created SM_Sack
+[2021.12.02-02.34.05:069][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.02-02.34.06:833][294]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1BEAD17E545E02F98C691439DAC0ADC6D.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.34.07:170][294]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData5C2A2EC644C848601E1F14A7D0DD003A.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.34.07:187][294]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.34.07:187][294]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.34.07:187][294]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.34.11:369][520]LogTexture: Display: Building textures: T_Barrel01_D (AutoDXT, 512X512)
+[2021.12.02-02.34.11:369][520]LogTexture: Display: Building textures: T_Barrel01_H (AutoDXT, 512X512)
+[2021.12.02-02.34.11:369][520]LogStaticMesh: Building static mesh SM_Barrel...
+[2021.12.02-02.34.11:415][520]LogStaticMesh: Built static mesh [0.05s] /Game/VikingVillage/StaticMeshes/SM_Barrel.SM_Barrel
+[2021.12.02-02.34.11:440][520]LogActorFactory: Actor Factory created SM_Barrel
+[2021.12.02-02.34.14:962][730]LogActorFactory: Actor Factory created SM_Barrel
+[2021.12.02-02.34.16:168][799]LogActorFactory: Actor Factory created SM_Barrel
+[2021.12.02-02.34.17:435][874]LogActorFactory: Actor Factory created SM_Barrel
+[2021.12.02-02.34.18:325][925]LogActorFactory: Actor Factory created SM_Barrel
+[2021.12.02-02.34.19:468][993]LogActorFactory: Actor Factory created SM_Barrel
+[2021.12.02-02.34.20:251][ 39]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.02-02.34.22:010][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.02-02.34.23:819][136]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1CB2E215D4F9F74F47399C0AE260E44D1.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.34.24:160][136]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData4A5BCB0A4CC0AB84C44EF2A08232D611.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.34.24:169][136]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.34.24:169][136]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.34.24:170][136]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.34.34:700][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.12.02-02.34.36:525][755]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1E90270F34AED96A9B6286FB7A468BE12.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.34.36:853][755]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataE4A544FA40AF7E4378E5BC81CA015E54.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.34.36:867][755]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.34.36:867][755]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.34.36:867][755]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.02-02.34.45:858][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_elderhouse)
+[2021.12.02-02.34.46:134][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.02-02.34.47:786][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.12.02-02.34.49:605][401]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1EC36E10A439A221DA7BAC094A3625CD7.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.02-02.34.49:953][401]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData8E4F893E47F6F4BE6D53AABF01B191CA.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.02-02.34.49:961][401]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-02.34.49:961][401]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.02-02.34.49:962][401]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
