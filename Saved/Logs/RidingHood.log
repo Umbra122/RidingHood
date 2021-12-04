@@ -6296,3 +6296,227 @@ Make sure 'Incement_Path_Index' has been compiled for  Get Patrol Path
 [2021.12.04-22.51.07:399][489]SourceControl: Commited [master 53bc8b1] Finally Added AI. AI currently has patrol, chase, and search functionality. Also removed old AI files.
 [2021.12.04-22.51.07:427][490]AssetCheck: New page: Asset Save: FindPathPoint
 [2021.12.04-22.51.07:427][490]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/FindPathPoint.FindPathPoint
+[2021.12.04-23.07.45:285][690]BlueprintLog: New page: Compile LoopPath
+[2021.12.04-23.07.45:375][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.12.04-23.08.10:915][707]BlueprintLog: New page: Compile LoopPath
+[2021.12.04-23.08.10:993][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.12.04-23.08.15:417][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI/LoopPath" FILE="../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/LoopPath.uasset" SILENT=true
+[2021.12.04-23.08.15:423][225]LogSavePackage: Moving '../../../../../Unreal Projects/RidingHood/Saved/LoopPathF59277DC46603021DDA49ABAE399DE22.tmp' to '../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/LoopPath.uasset'
+[2021.12.04-23.08.15:435][225]AssetCheck: New page: Asset Save: LoopPath
+[2021.12.04-23.08.15:435][225]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/LoopPath.LoopPath
+[2021.12.04-23.09.20:438][244]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Attack.Mob_1_Attack
+[2021.12.04-23.09.20:455][244]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Attack.Mob_1_Attack
+[2021.12.04-23.09.21:093][244]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.12.04-23.09.21:457][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.09.21:484][244]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.12.04-23.09.22:444][244]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.04-23.09.39:109][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.04-23.09.39:733][ 21]LogEditorViewport: Clicking on Actor (LMB): EnemyTest_C (EnemyTest)
+[2021.12.04-23.13.22:263][379]LogContentBrowser: Deferred new asset file creation: Mob_1_Attack_Montage
+[2021.12.04-23.13.22:281][379]LogContentBrowser: Creating deferred item: Mob_1_Attack_Montage
+[2021.12.04-23.13.24:377][564]LogContentBrowser: Attempting asset rename: Mob_1_Attack_Montage -> Mob_1_Attack_Montage
+[2021.12.04-23.13.24:451][564]LogContentBrowser: End creating deferred item Mob_1_Attack_Montage
+[2021.12.04-23.13.35:852][515]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Character/Mob_1/Animation/Mob_1_Attack_Montage.Mob_1_Attack_Montage
+[2021.12.04-23.15.11:455][112]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.04-23.15.11:476][112]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.04-23.15.25:554][112]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.12.04-23.15.27:335][112]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.04-23.15.35:377][112]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.12.04-23.15.40:993][548]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.04-23.15.47:148][548]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.04-23.15.48:842][548]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.12.04-23.17.47:752][148]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Attack.Mob_1_Attack
+[2021.12.04-23.18.02:338][808]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Mob_1/Mesh/Ch30_nonPBR_Skeleton.Ch30_nonPBR_Skeleton
+[2021.12.04-23.18.02:355][808]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.18.02:607][809]LogRenderer: Reallocating scene render targets to support 1616x1244 Format 10 NumSamples 1 (Frame:1).
+[2021.12.04-23.18.06:609][284]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Mob_1/Mesh/Ch30_nonPBR.Ch30_nonPBR
+[2021.12.04-23.18.06:627][284]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.18.06:902][284]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.12.04-23.19.13:196][675]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.04-23.19.21:499][675]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.12.04-23.19.21:510][675]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.12.04-23.19.21:532][675]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.12.04-23.19.36:400][894]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> WalkingAnimation
+[2021.12.04-23.19.36:480][894]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Character/Mob_1/Animation/WalkingAnimation.
+[2021.12.04-23.19.36:480][894]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.12.04-23.19.46:545][709]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Mob_1/Animation/WalkingAnimation.WalkingAnimation
+[2021.12.04-23.19.46:624][709]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.20.01:251][904]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Player/Red_control.Red_control
+[2021.12.04-23.20.01:256][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.20.14:743][373]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-23.20.14:743][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-23.20.14:756][373]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-23.20.14:756][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-23.20.14:877][373]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-23.20.14:877][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-23.20.32:785][247]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Mob_1/Mesh/Ch30_nonPBR_Anim_mixamo_com.Ch30_nonPBR_Anim_mixamo_com
+[2021.12.04-23.20.32:796][247]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Mesh/Ch30_nonPBR_Anim_mixamo_com.Ch30_nonPBR_Anim_mixamo_com
+[2021.12.04-23.20.34:644][426]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Attack.Mob_1_Attack
+[2021.12.04-23.20.37:556][693]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Run_Forward.Mob_1_Run_Forward
+[2021.12.04-23.20.37:568][693]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Run_Forward.Mob_1_Run_Forward
+[2021.12.04-23.20.39:478][870]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Running_Crawl.Mob_1_Running_Crawl
+[2021.12.04-23.20.39:488][870]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Running_Crawl.Mob_1_Running_Crawl
+[2021.12.04-23.20.42:270][151]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_Run_Forward.Mob_1_Run_Forward
+[2021.12.04-23.20.48:890][794]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Character/Mob_1/Mesh/Ch30_nonPBR_PhysicsAsset.Ch30_nonPBR_PhysicsAsset
+[2021.12.04-23.20.48:973][794]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2021.12.04-23.20.49:027][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.20.55:864][482]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-23.20.55:864][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-23.23.08:182][265]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.12.04-23.23.16:527][265]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.04-23.23.20:057][508]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Character/Mob_1/Animation/Mob_1_Attack_Montage.Mob_1_Attack_Montage
+[2021.12.04-23.25.23:029][ 12]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.25.23:147][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.12.04-23.26.05:277][310]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.26.05:279][310]LogBlueprint: Warning: [AssetLog] /Game/Character/Mob_1/Animation/WalkingAnimation.WalkingAnimation (no disk path found): [Compiler] Entry node  EnemyMovement  is not connected to state
+[2021.12.04-23.26.05:279][310]LogBlueprint: Warning: [AssetLog] /Game/Character/Mob_1/Animation/WalkingAnimation.WalkingAnimation (no disk path found): [Compiler] There was no entry state connection in  EnemyMovement
+[2021.12.04-23.26.05:390][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.12.04-23.26.22:456][325]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.04-23.27.07:187][409]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.27.07:289][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.12.04-23.27.23:015][ 48]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.27.23:111][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.12.04-23.27.27:800][559]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Mob_1/Mesh/Ch30_nonPBR_Anim_Take_001.Ch30_nonPBR_Anim_Take_001
+[2021.12.04-23.27.31:509][945]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.27.31:606][945]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.12.04-23.27.40:524][950]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Mob_1/Animation/Mob_1_death.Mob_1_death
+[2021.12.04-23.27.43:995][150]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.27.44:127][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.12.04-23.27.53:837][209]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.27.53:935][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.12.04-23.29.29:994][112]BlueprintLog: New page: Compile WalkingAnimation
+[2021.12.04-23.29.30:098][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.12.04-23.29.30:462][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mob_1/Animation/WalkingAnimation" FILE="../../../../../Unreal Projects/RidingHood/Content/Character/Mob_1/Animation/WalkingAnimation.uasset" SILENT=true
+[2021.12.04-23.29.30:471][138]LogSavePackage: Moving '../../../../../Unreal Projects/RidingHood/Saved/WalkingAnimation7AF3106C49A486FD5AE11D831D4035DC.tmp' to '../../../../../Unreal Projects/RidingHood/Content/Character/Mob_1/Animation/WalkingAnimation.uasset'
+[2021.12.04-23.29.30:629][138]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/Mob_1/Animation/WalkingAnimation.
+[2021.12.04-23.29.30:636][138]AssetCheck: New page: Asset Save: WalkingAnimation
+[2021.12.04-23.29.30:636][138]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Mob_1/Animation/WalkingAnimation.WalkingAnimation
+[2021.12.04-23.29.34:739][486]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-23.29.34:748][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-23.29.34:748][486]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2021, 7:29:34 AM)
+[2021.12.04-23.29.34:760][486]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.04-23.29.34:773][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013255s)
+[2021.12.04-23.29.34:774][486]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.04-23.29.34:774][486]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2021.12.04-23.29.34:774][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014472s)
+[2021.12.04-23.29.34:842][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.12.04-23.29.34:845][486]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-23.29.34:845][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-23.29.34:845][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-23.29.34:846][486]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-23.29.34:846][486]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 4: BackLeft
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 5: BackRight
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 6: SideLeft
+[2021.12.04-23.29.34:854][486]LogAudioMixer: Display: 7: SideRight
+[2021.12.04-23.29.35:008][486]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.12.04-23.29.35:008][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-23.29.35:008][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-23.29.35:008][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-23.29.35:009][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-23.29.35:009][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-23.29.35:009][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.04-23.29.35:022][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-23.29.35:022][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-23.29.35:022][486]LogInit: FAudioDevice initialized.
+[2021.12.04-23.29.35:022][486]LogAudio: Display: Audio Device (ID: 62) registered with world 'ThirdPersonExampleMap'.
+[2021.12.04-23.29.35:032][486]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.04-23.29.35:035][486]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.12.04-15.29.35
+[2021.12.04-23.29.35:035][486]LogController: Warning: Asking AIController_0 to possess pawn SecondPlayerCharacter_2 more than once; pawn will be restarted! Should call Unpossess first.
+[2021.12.04-23.29.35:035][486]LogWorld: Bringing up level for play took: 0.002503
+[2021.12.04-23.29.35:035][486]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2021.12.04-23.29.35:042][486]PIE: Server logged in
+[2021.12.04-23.29.35:043][486]PIE: Play in editor total start time 0.299 seconds.
+[2021.12.04-23.29.36:825][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-23.29.36:825][690]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.04-23.29.36:826][690]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-23.29.36:826][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-23.29.36:844][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-23.29.36:880][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-23.29.36:944][690]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-23.29.36:944][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-23.29.36:945][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-23.29.36:959][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-23.29.36:964][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.12.04-23.29.37:037][691]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2021.12.04-23.30.26:652][ 45]Cmd: EDIT CUT
+[2021.12.04-23.30.26:654][ 45]LogEditorActor: Deleted Actor: EnemyTest_C
+[2021.12.04-23.30.26:722][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.12.04-23.30.26:728][ 45]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2021.12.04-23.30.28:873][254]Cmd: TRANSACTION UNDO
+[2021.12.04-23.30.28:873][254]LogEditorTransaction: Undo Cut
+[2021.12.04-23.30.29:212][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.30.29:214][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.30.29:219][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.30.29:221][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-23.30.31:533][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.04-23.30.35:360][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.04-23.30.36:012][796]Cmd: SELECT NONE
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.SKEL_WalkingAnimation_C' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation_C' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation:AnimGraph.AnimGraphNode_StateMachine_0.EnemyMovement.AnimStateEntryNode_0' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation:AnimGraph.AnimGraphNode_StateMachine_0.EnemyMovement.AnimStateNode_0.Mob_1_Run_Forward.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.SKEL_WalkingAnimation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.SKEL_WalkingAnimation_C:AnimGraph' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:961][168]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation_C:AnimGraph' ref from Metadata '/Game/Character/Mob_1/Animation/WalkingAnimation.PackageMetaData'
+[2021.12.04-23.30.48:994][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation" FILE="../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/WalkingAnimation.uasset" SILENT=true
+[2021.12.04-23.30.49:003][168]LogSavePackage: Moving '../../../../../Unreal Projects/RidingHood/Saved/WalkingAnimation96028A6B4C6711B96B68FC9A1364F593.tmp' to '../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/WalkingAnimation.uasset'
+[2021.12.04-23.30.49:830][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.12.04-23.30.49:913][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.12.04-23.30.49:976][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.04-23.30.50:090][168]SourceControl: rm 'Content/Character/Mob_1/Animation/WalkingAnimation.uasset'
+[2021.12.04-23.30.50:205][168]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.
+[2021.12.04-23.30.50:213][168]AssetCheck: New page: Asset Save: WalkingAnimation
+[2021.12.04-23.30.50:213][168]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation
+[2021.12.04-23.31.18:805][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.12.04-23.31.18:807][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2021.12.04-23.31.43:188][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.04-23.32.00:919][579]Cmd: SELECT NONE
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Content: 'E:/Other Games/UE_4.26/Engine/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.10:915][731]SourceControl: fatal: E:/Other Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Other Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/RidingHood'
+[2021.12.04-23.36.11:199][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI/LoopPath" FILE="../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/LoopPath.uasset" SILENT=true
+[2021.12.04-23.36.11:205][731]LogSavePackage: Moving '../../../../../Unreal Projects/RidingHood/Saved/LoopPathC6A074CE453646C7D010F2968FC92D2B.tmp' to '../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/LoopPath.uasset'
+[2021.12.04-23.36.11:206][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation" FILE="../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/WalkingAnimation.uasset" SILENT=true
+[2021.12.04-23.36.11:212][731]LogSavePackage: Moving '../../../../../Unreal Projects/RidingHood/Saved/WalkingAnimationA192150F4EBF671E2289E1BEBF490A10.tmp' to '../../../../../Unreal Projects/RidingHood/Content/ThirdPersonBP/Blueprints/AI/WalkingAnimation.uasset'
+[2021.12.04-23.36.24:416][731]LogSlate: Window 'Submit Files' being destroyed
+[2021.12.04-23.36.24:870][731]LogSourceControl: commit successful: [master da73244] loop path bugfix
+[2021.12.04-23.36.24:916][731]SourceControl: [master da73244] loop path bugfix
+[2021.12.04-23.36.24:916][731]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.12.04-23.36.24:916][731]SourceControl:  rewrite Content/ThirdPersonBP/Blueprints/AI/LoopPath.uasset (71%)
+[2021.12.04-23.36.24:916][731]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/AI/WalkingAnimation.uasset
+[2021.12.04-23.36.24:923][731]SourceControl: Commited [master da73244] loop path bugfix.
+[2021.12.04-23.36.24:947][732]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-23.36.24:948][732]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/LoopPath.LoopPath
+[2021.12.04-23.36.24:948][732]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/AI/WalkingAnimation.WalkingAnimation
