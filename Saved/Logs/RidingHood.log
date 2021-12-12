@@ -873,3 +873,808 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.11-23.43.20:423][984]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.11-23.43.20:423][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
 [2021.12.11-23.43.20:423][984]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.11-23.47.09:760][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_6_pine)
+[2021.12.11-23.47.14:951][224]Cmd: TRANSACTION UNDO
+[2021.12.11-23.47.14:951][224]LogEditorTransaction: Undo Move Actors
+[2021.12.11-23.53.18:273][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.11-23.53.18:274][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 0.010
+[2021.12.11-23.55.46:388][892]LogMaterial: Display: Missing cached shader map for material branch, compiling. 
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.12.11-23.55.46:413][892]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.12.11-23.55.46:413][892]LogStaticMesh: Building static mesh tree_6_pine2...
+[2021.12.11-23.55.46:435][892]LogStaticMesh: Built static mesh [0.02s] /Game/FoliagePack/Model/tree_6_pine2.tree_6_pine2
+[2021.12.11-23.55.46:488][893]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.11-23.55.47:162][924]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.11-23.55.50:293][102]Cmd: TRANSACTION UNDO
+[2021.12.11-23.55.50:293][102]LogEditorTransaction: Undo Move Actors
+[2021.12.11-23.55.53:919][314]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.12-00.02.00:998][327]LogSlate: Took 0.005436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.12-00.02.17:938][595]LogSlate: Window 'Save Asset As' being destroyed
+[2021.12.12-00.02.19:316][595]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.02.19:321][595]Message dialog closed, result: Yes, title: Message, text: An object [tree_6_pine] of class [StaticMesh] already exists in file [/Game/FoliagePack/Model/tree_6_pine].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2021.12.12-00.02.22:888][595]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.02.22:893][595]Message dialog closed, result: Ok, title: Message, text: StaticMesh /Game/FoliagePack/Model/tree_6_pine.tree_6_pine is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of StaticMesh /Game/FoliagePack/Model/tree_6_pine.tree_6_pine:
+   StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.tree_6_pine_2.StaticMeshComponent0 (1)
+      0) ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh
+
+
+[2021.12.12-00.02.24:392][595]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.02.24:396][595]Message dialog closed, result: Ok, title: Message, text: tree_6_pine wasn't created.
+
+The asset is referenced by other content.
+[2021.12.12-00.02.26:570][713]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.02.27:445][765]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.03.21:512][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.12.12-00.03.23:234][  2]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_Auto1BBCDAF6A4A28E3D8BE2098AC4549DEAE.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap'
+[2021.12.12-00.03.23:240][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 1.736
+[2021.12.12-00.03.23:240][  2]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.736
+[2021.12.12-00.05.14:613][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.12.12-00.05.16:338][675]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level12214857E4E0CD3581204429E556BE846.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.05.16:664][675]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData6B5E100A4B4174656A1B129D18C412F9.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.05.16:676][675]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.05.16:676][675]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.05.16:676][675]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-00.05.44:756][579]LogSlate: Window 'Save Asset As' being destroyed
+[2021.12.12-00.05.53:563][579]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.05.53:568][579]Message dialog closed, result: No, title: Message, text: An object [tree_6_pine] of class [StaticMesh] already exists in file [/Game/FoliagePack/Model/tree_6_pine].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2021.12.12-00.05.59:966][955]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.12.12-00.06.03:195][145]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.12-00.06.04:700][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_6_pine3)
+[2021.12.12-00.06.08:822][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_6_pine)
+[2021.12.12-00.06.10:758][592]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (tree_6_pine3)
+[2021.12.12-00.06.12:820][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_6_pine)
+[2021.12.12-00.06.14:000][779]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.14:512][809]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.15:320][854]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.15:640][873]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.16:323][911]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.16:894][945]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.18:944][ 65]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.19:452][ 95]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.20:364][147]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.20:684][166]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.24:946][419]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.25:286][439]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.25:973][477]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.26:295][496]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.27:098][540]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.27:719][577]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.28:443][617]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.28:782][637]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.29:698][689]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.12-00.06.30:168][717]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.12-00.06.31:128][772]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.12-00.06.31:632][802]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.12-00.06.32:547][854]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.12-00.06.33:122][888]LogActorFactory: Actor Factory created tree_6_pine2
+[2021.12.12-00.06.34:008][938]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.34:580][972]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.35:749][ 38]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.36:168][ 63]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.36:819][ 99]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.37:674][150]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.39:073][201]LogTexture: Display: Building textures: grass (AutoDXT, 1024X1024)
+[2021.12.12-00.06.39:073][201]LogTexture: Display: Building textures: grass_Normal (AutoDXT, 1024X1024)
+[2021.12.12-00.06.39:073][201]LogStaticMesh: Building static mesh tree_5_grass_cluster...
+[2021.12.12-00.06.39:092][201]LogStaticMesh: Built static mesh [0.02s] /Game/FoliagePack/Model/tree_5_grass_cluster.tree_5_grass_cluster
+[2021.12.12-00.06.39:109][201]LogActorFactory: Actor Factory created tree_5_grass_cluster
+[2021.12.12-00.06.40:477][283]LogActorFactory: Actor Factory created tree_5_grass_cluster
+[2021.12.12-00.06.42:976][431]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.43:419][457]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.44:392][513]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.44:783][536]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.45:810][595]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.46:799][654]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.47:849][714]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.48:488][752]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: bark_2_r (AutoDXT, 1024X2048)
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: branch_10_2_1 (AutoDXT, 1024X1024)
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: tree_1_standard_1 (AutoDXT, 1024X1024)
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: branch_10_2_Spec (AutoDXT, 2048X2048)
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: bark_2_b (AutoDXT, 1024X2048)
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: bark_2_n (BC5, 1024X2048)
+[2021.12.12-00.06.51:692][804]LogTexture: Display: Building textures: branch_10_2_Normal (BC5, 2048X2048)
+[2021.12.12-00.06.51:692][804]LogStaticMesh: Building static mesh tree_1_standard_6...
+[2021.12.12-00.06.51:744][804]LogStaticMesh: Built static mesh [0.05s] /Game/FoliagePack/Model/tree_1_standard_6.tree_1_standard_6
+[2021.12.12-00.06.51:774][804]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.52:791][865]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.53:884][928]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.54:304][953]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.55:208][  4]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.55:612][ 28]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.56:612][ 85]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.57:233][122]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.59:292][243]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.06.59:867][277]LogActorFactory: Actor Factory created tree_1_standard_6
+[2021.12.12-00.07.01:121][349]LogStaticMesh: Building static mesh tree_6_pine3...
+[2021.12.12-00.07.01:144][349]LogStaticMesh: Built static mesh [0.02s] /Game/FoliagePack/Model/tree_6_pine3.tree_6_pine3
+[2021.12.12-00.07.01:379][361]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.07.01:716][381]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.07.02:869][446]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.07.03:374][476]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.07.04:332][531]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.07.04:936][567]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.07.10:948][926]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.12-00.07.17:700][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_6_pine10)
+[2021.12.12-00.07.25:350][788]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.12-00.07.25:371][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-00.07.25:373][788]PIE: New page: PIE session: Level1 (Dec 11, 2021, 8:07:25 AM)
+[2021.12.12-00.07.25:375][788]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.12-00.07.25:377][788]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.12-00.07.25:380][788]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-00.07.25:563][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183814s)
+[2021.12.12-00.07.25:565][788]LogAIModule: Creating AISystem for world Level1
+[2021.12.12-00.07.25:566][788]LogPlayLevel: PIE: World Init took: (0.002530s)
+[2021.12.12-00.07.25:566][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.187007s)
+[2021.12.12-00.07.25:574][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.12.12-00.07.25:583][788]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-00.07.25:583][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-00.07.25:583][788]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-00.07.25:583][788]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-00.07.25:585][788]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-00.07.25:585][788]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-00.07.25:597][788]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.12-00.07.25:597][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-00.07.25:598][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-00.07.25:598][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-00.07.25:598][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.12-00.07.25:598][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-00.07.25:598][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-00.07.25:611][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-00.07.25:611][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-00.07.25:611][788]LogInit: FAudioDevice initialized.
+[2021.12.12-00.07.25:611][788]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.12.12-00.07.25:634][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.12-00.07.25:671][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.12.11-16.07.25
+[2021.12.12-00.07.25:703][788]LogWorld: Bringing up level for play took: 0.058030
+[2021.12.12-00.07.25:704][788]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.12.12-00.07.25:715][788]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.12.12-00.07.25:739][788]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.12-00.07.25:739][788]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.12.12-00.07.25:739][788]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.12-00.07.25:743][788]PIE: Server logged in
+[2021.12.12-00.07.25:745][788]PIE: Play in editor total start time 0.38 seconds.
+[2021.12.12-00.07.27:632][897]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2021.12.12-00.07.27:632][897]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.12.12-00.07.35:628][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-00.07.35:628][374]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-00.07.35:628][374]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.07.35:631][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.07.35:636][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-00.07.35:652][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.07.35:660][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.12-00.07.35:660][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-00.07.35:661][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-00.07.35:677][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-00.07.35:685][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.12.12-00.07.35:724][375]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.12.12-00.07.36:720][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.12-00.07.38:458][427]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level14426121C40B8779DDE6C61B92075A682.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.07.38:794][427]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataF67DDFF3499DC7A8660296A14898F133.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.07.38:808][427]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.07.38:808][427]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.07.38:808][427]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-00.12.51:618][187]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.12.12-00.13.07:077][926]LogSlate: Window 'Save Asset As' being destroyed
+[2021.12.12-00.13.15:251][270]LogSlate: Window 'Save Asset As' being destroyed
+[2021.12.12-00.13.30:180][560]LogSlate: Window 'Save Asset As' being destroyed
+[2021.12.12-00.13.31:638][560]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.13.31:643][560]Message dialog closed, result: Yes, title: Message, text: An object [tree_6_pine3] of class [StaticMesh] already exists in file [/Game/FoliagePack/Model/tree_6_pine3].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2021.12.12-00.13.34:698][560]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.13.34:703][560]Message dialog closed, result: Ok, title: Message, text: StaticMesh /Game/FoliagePack/Model/tree_6_pine3.tree_6_pine3 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of StaticMesh /Game/FoliagePack/Model/tree_6_pine3.tree_6_pine3:
+   StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.tree_6_pine23_86.StaticMeshComponent0 (1)
+      0) ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh
+   StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.tree_6_pine24_89.StaticMeshComponent0 (1)
+      0) ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh
+   StaticMeshComponent /Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.tree_6_pine25_92.StaticMeshComponent0 (1)
+      0) ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh
+
+
+[2021.12.12-00.13.37:995][560]LogSlate: Window 'Message' being destroyed
+[2021.12.12-00.13.37:999][560]Message dialog closed, result: Ok, title: Message, text: tree_6_pine3 wasn't created.
+
+The asset is referenced by other content.
+[2021.12.12-00.13.55:293][581]LogActorFactory: Actor Factory created tree_6_pine3
+[2021.12.12-00.14.00:163][866]LogMaterial: Display: Material /Game/FoliagePack/Material/bark.bark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.12.12-00.14.00:164][866]LogMaterial: Display: Missing cached shader map for material bark, compiling. 
+[2021.12.12-00.14.00:177][866]LogMaterial: Display: Material /Game/FoliagePack/Material/branch.branch needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.12.12-00.14.00:179][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.12.12-00.14.00:179][866]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.12.12-00.14.00:179][866]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.12.12-00.14.00:179][866]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.12.12-00.14.00:179][866]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.12.12-00.14.00:179][866]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.12.12-00.14.00:179][866]LogMaterial: Display: Missing cached shader map for material branch, compiling. 
+[2021.12.12-00.14.00:209][866]LogMaterial: Display: Missing cached shader map for material branch, compiling. 
+[2021.12.12-00.14.00:298][867]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 66
+[2021.12.12-00.14.00:298][867]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2021.12.12-00.14.01:917][942]Cmd: TRANSACTION UNDO
+[2021.12.12-00.14.01:917][942]LogEditorTransaction: Undo Foliage Editing
+[2021.12.12-00.14.03:020][980]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 114
+[2021.12.12-00.14.03:250][992]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 104
+[2021.12.12-00.14.03:290][994]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 94
+[2021.12.12-00.14.03:813][ 22]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 84
+[2021.12.12-00.14.03:942][ 29]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 74
+[2021.12.12-00.14.04:165][ 40]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 64
+[2021.12.12-00.14.05:208][ 94]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2021.12.12-00.14.05:971][138]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2021.12.12-00.14.08:109][258]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.12.12-00.14.08:492][280]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2021.12.12-00.14.08:718][293]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.12.12-00.14.09:625][344]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.12.12-00.14.09:972][364]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.12.12-00.14.10:510][394]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.12.12-00.14.10:704][405]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.12.12-00.14.11:280][437]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.12.12-00.14.11:453][447]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.12.12-00.14.11:824][465]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.12.12-00.14.12:027][477]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.12.12-00.14.12:080][480]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.12.12-00.14.12:182][486]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.12.12-00.14.12:383][497]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.12.12-00.14.12:474][502]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.12.12-00.14.12:621][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.12.12-00.14.12:661][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.12-00.16.32:382][889]LogActorFactory: Actor Factory created tree_6_pine
+[2021.12.12-00.16.39:120][290]LogMaterial: Display: Material /Game/FoliagePack/Material/billboard.billboard needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.12.12-00.16.39:121][290]LogMaterial: Display: Missing cached shader map for material billboard, compiling. 
+[2021.12.12-00.16.39:160][291]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2021.12.12-00.16.39:160][291]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2021.12.12-00.16.39:161][291]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.12.12-00.16.39:161][291]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2021.12.12-00.16.39:161][291]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.12.12-00.16.39:161][291]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.12.12-00.16.39:161][291]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.12.12-00.16.39:161][291]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.12.12-00.17.36:773][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.12.12-00.17.38:508][709]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_Auto27F1C3129481027282BD94090E3F7A57C.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap'
+[2021.12.12-00.17.38:521][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 1.756
+[2021.12.12-00.17.38:521][709]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.756
+[2021.12.12-00.17.38:522][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FoliagePack/MaterialInstance/tree_6_pine_bb] ([1] browsable assets)...
+[2021.12.12-00.17.38:534][709]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FoliagePack/MaterialInstance/tree_6_pine_bb.tree_6_pine_bb]
+[2021.12.12-00.17.38:534][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/FoliagePack/MaterialInstance/tree_6_pine_bb]
+[2021.12.12-00.17.38:541][709]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/tree_6_pine_bb_Auto260706E134994EBAB3548FCBD9F001A36.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/FoliagePack/MaterialInstance/tree_6_pine_bb_Auto2.uasset'
+[2021.12.12-00.17.38:543][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FoliagePack/Material/billboard] ([1] browsable assets)...
+[2021.12.12-00.17.38:554][709]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FoliagePack/Material/billboard.billboard]
+[2021.12.12-00.17.38:554][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/FoliagePack/Material/billboard]
+[2021.12.12-00.17.38:569][709]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/billboard_Auto21C88DD3D4425885F9AA3CAB6CE185AB2.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/FoliagePack/Material/billboard_Auto2.uasset'
+[2021.12.12-00.17.38:570][709]LogFileHelpers: Auto-saving content packages took 0.048
+[2021.12.12-00.19.21:761][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.12.12-00.19.23:678][891]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1A8FB679C40754918A3B0FBB3BFAE927D.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.19.23:678][891]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap', retrying in .5s...
+[2021.12.12-00.19.24:182][891]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.12.12-00.19.24:505][891]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData7044A9C24B1BAC42524682A1D4B4F57F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.19.24:525][891]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.19.24:525][891]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.19.24:525][891]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-00.20.39:008][119]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.12-00.20.39:019][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-00.20.39:019][119]PIE: New page: PIE session: Level1 (Dec 11, 2021, 8:20:39 AM)
+[2021.12.12-00.20.39:019][119]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-00.20.39:186][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167864s)
+[2021.12.12-00.20.39:187][119]LogAIModule: Creating AISystem for world Level1
+[2021.12.12-00.20.39:195][119]LogPlayLevel: PIE: World Init took: (0.008929s)
+[2021.12.12-00.20.39:195][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.176945s)
+[2021.12.12-00.20.39:203][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.12.12-00.20.39:204][119]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-00.20.39:204][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-00.20.39:204][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-00.20.39:205][119]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-00.20.39:205][119]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-00.20.39:207][119]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-00.20.39:207][119]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-00.20.39:219][119]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.12-00.20.39:219][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-00.20.39:219][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-00.20.39:219][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-00.20.39:220][119]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.12-00.20.39:220][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-00.20.39:220][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-00.20.39:233][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-00.20.39:233][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-00.20.39:233][119]LogInit: FAudioDevice initialized.
+[2021.12.12-00.20.39:233][119]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.12.12-00.20.39:245][119]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.12-00.20.39:259][119]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.12.11-16.20.39
+[2021.12.12-00.20.39:260][119]LogWorld: Bringing up level for play took: 0.013853
+[2021.12.12-00.20.39:260][119]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.12-00.20.39:264][119]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.12-00.20.39:264][119]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.12.12-00.20.39:264][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.12-00.20.39:265][119]PIE: Server logged in
+[2021.12.12-00.20.39:265][119]PIE: Play in editor total start time 0.249 seconds.
+[2021.12.12-00.20.41:054][224]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2021.12.12-00.20.41:054][224]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.12.12-00.20.47:467][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-00.20.47:467][606]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-00.20.47:468][606]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.20.47:470][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.20.47:481][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-00.20.47:484][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.20.47:493][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-00.20.47:493][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-00.20.47:494][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-00.20.47:513][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.12-00.20.47:536][607]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.12-00.20.48:727][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.12-00.20.50:448][671]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1CDC6F6444CA461D72667B88C734EF276.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.20.50:766][671]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData984723714F41D3C530F92F8F60F5D70B.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.20.50:780][671]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.20.50:780][671]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.20.50:780][671]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-00.23.09:605][  0]Cmd: TRANSACTION UNDO
+[2021.12.12-00.23.09:605][  0]LogEditorTransaction: Undo Foliage Editing
+[2021.12.12-00.23.36:761][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.12.12-00.23.38:494][611]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1A23E6E13465D546DA0B5D9A390FB59B5.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.23.38:820][611]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataFCD5F1D4491ABFB526632EB0C4C4DB16.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.23.38:836][611]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.23.38:836][611]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.23.38:836][611]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-00.33.38:652][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_villagehouse7)
+[2021.12.12-00.33.44:928][965]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_villagehouse6)
+[2021.12.12-00.33.53:121][452]Cmd: EDIT COPY
+[2021.12.12-00.33.54:083][509]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.12-00.33.55:827][612]Cmd: EDIT PASTE
+[2021.12.12-00.33.59:685][840]Cmd: EDIT PASTE
+[2021.12.12-00.34.04:042][ 99]Cmd: EDIT PASTE
+[2021.12.12-00.34.09:564][428]Cmd: EDIT PASTE
+[2021.12.12-00.34.44:742][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.12-00.34.46:486][530]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_Auto3D1D00EBA4E136C881799468A67C785B9.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto3.umap'
+[2021.12.12-00.34.46:491][530]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 1.758
+[2021.12.12-00.34.46:491][530]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.758
+[2021.12.12-00.45.20:186][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_villagehouse10)
+[2021.12.12-00.45.22:663][632]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_villagehouse8)
+[2021.12.12-00.45.27:897][943]Cmd: DUPLICATE
+[2021.12.12-00.45.27:897][943]Cmd: ACTOR DUPLICATE
+[2021.12.12-00.45.35:231][381]Cmd: TRANSACTION UNDO
+[2021.12.12-00.45.35:231][381]LogEditorTransaction: Undo Move Actors
+[2021.12.12-00.45.37:788][530]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.12-00.45.43:696][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.12.12-00.45.45:460][878]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1C76E386643C9F39C1A51B3849170B476.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.45.45:788][878]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataAF4731514748169EC38B9E931DD417F4.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.45.45:802][878]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.45.45:802][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.45.45:802][878]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-00.47.19:785][512]Cmd: TRANSACTION UNDO
+[2021.12.12-00.47.19:785][512]LogEditorTransaction: Undo Foliage Editing
+[2021.12.12-00.55.43:730][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.12.12-00.55.45:511][683]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_Auto48FF42C174244BE04380DBDBD5451E017.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto4.umap'
+[2021.12.12-00.55.45:516][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 1.794
+[2021.12.12-00.55.45:516][683]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.794
+[2021.12.12-00.56.25:516][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.12.12-00.56.27:252][ 74]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1161C44CC42C55E42A6670988DE0E25E3.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-00.56.27:584][ 74]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataD04821E144E09EFB3ACF9D8A6D4ABD10.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-00.56.27:600][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-00.56.27:600][ 74]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-00.56.27:600][ 74]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.06.25:549][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.12-01.06.27:303][943]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_Auto5A356042F4A396003E3502391B38C61B9.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto5.umap'
+[2021.12.12-01.06.27:308][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 1.767
+[2021.12.12-01.06.27:308][943]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.767
+[2021.12.12-01.12.48:555][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.12.12-01.12.50:325][807]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level132B237134BB574F1A225CBB3F5884DAF.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.12.50:656][807]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData4FEA515A4013FF87EB22F1A36A9D62E3.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.12.50:669][807]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.12.50:669][807]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.12.50:669][807]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.13.15:627][303]Cmd: TRANSACTION UNDO
+[2021.12.12-01.13.15:627][303]LogEditorTransaction: Undo Foliage Editing
+[2021.12.12-01.13.31:349][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.12.12-01.13.33:123][228]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level18ED9208541143DE19D21718FE655D309.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.13.33:465][228]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData834374FA437AA36473C251A9EA52F5FA.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.13.33:473][228]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.13.33:473][228]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.13.33:473][228]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.13.33:895][249]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.12-01.13.33:903][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-01.13.33:904][249]PIE: New page: PIE session: Level1 (Dec 11, 2021, 9:13:33 AM)
+[2021.12.12-01.13.33:904][249]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-01.13.34:070][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167052s)
+[2021.12.12-01.13.34:071][249]LogAIModule: Creating AISystem for world Level1
+[2021.12.12-01.13.34:071][249]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2021.12.12-01.13.34:071][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.168221s)
+[2021.12.12-01.13.34:080][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.12.12-01.13.34:087][249]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-01.13.34:087][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-01.13.34:087][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-01.13.34:088][249]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-01.13.34:088][249]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-01.13.34:090][249]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-01.13.34:090][249]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-01.13.34:102][249]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.12-01.13.34:102][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-01.13.34:102][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-01.13.34:102][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-01.13.34:102][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.12-01.13.34:102][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-01.13.34:102][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-01.13.34:115][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-01.13.34:115][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-01.13.34:115][249]LogInit: FAudioDevice initialized.
+[2021.12.12-01.13.34:115][249]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2021.12.12-01.13.34:125][249]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.12-01.13.34:140][249]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.12.11-17.13.34
+[2021.12.12-01.13.34:140][249]LogWorld: Bringing up level for play took: 0.014168
+[2021.12.12-01.13.34:140][249]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.12-01.13.34:145][249]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.12-01.13.34:145][249]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.12.12-01.13.34:145][249]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.12-01.13.34:145][249]PIE: Server logged in
+[2021.12.12-01.13.34:146][249]PIE: Play in editor total start time 0.246 seconds.
+[2021.12.12-01.13.37:605][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-01.13.37:608][455]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-01.13.37:609][455]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-01.13.37:611][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-01.13.37:616][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-01.13.37:619][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-01.13.37:626][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-01.13.37:629][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-01.13.37:630][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-01.13.37:650][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.12.12-01.13.37:707][457]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.12-01.14.01:765][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.12.12-01.14.04:377][ 51]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.12-01.14.33:138][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.12-01.14.34:901][765]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1724A2F0C4D0C0854AF9D7A9110DA56CF.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.14.35:236][765]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataE3C999E84A45873ECA4B47ADC745D6BC.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.14.35:249][765]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.14.35:249][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.14.35:249][765]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.17.16:219][397]LogTexture: Display: Building textures: leaf_pile_5_n (AutoDXT, 512X512)
+[2021.12.12-01.17.16:219][397]LogTexture: Display: Building textures: leaf_pile_5_b (AutoDXT, 512X512)
+[2021.12.12-01.17.16:219][397]LogTexture: Display: Building textures: leaf_9_n (BC5, 1024X1024)
+[2021.12.12-01.17.16:219][397]LogTexture: Display: Building textures: leaf_9_b (AutoDXT, 1024X1024)
+[2021.12.12-01.17.16:219][397]LogStaticMesh: Building static mesh leaf_pile_5...
+[2021.12.12-01.17.16:237][397]LogStaticMesh: Built static mesh [0.02s] /Game/FoliagePack/Model/leaf_pile_5.leaf_pile_5
+[2021.12.12-01.17.16:247][397]LogMaterial: Display: Missing cached shader map for material leaf, compiling. 
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 126
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 116
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 106
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 96
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 86
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 76
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 66
+[2021.12.12-01.17.16:387][397]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2021.12.12-01.17.21:394][645]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.12.12-01.17.22:086][673]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2021.12.12-01.17.22:086][673]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2021.12.12-01.17.22:109][674]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2021.12.12-01.17.22:480][689]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.12.12-01.17.23:057][711]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.12.12-01.17.23:413][725]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.12.12-01.17.24:123][730]LogTexture: Display: Building textures: branch_7_fern (AutoDXT, 2048X2048)
+[2021.12.12-01.17.24:123][730]LogTexture: Display: Building textures: branch_7_fern_Normal (BC5, 2048X2048)
+[2021.12.12-01.17.24:123][730]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.12.12-01.17.24:123][730]LogStaticMesh: Building static mesh bush_fern_1...
+[2021.12.12-01.17.24:150][730]LogStaticMesh: Built static mesh [0.03s] /Game/FoliagePack/Model/bush_fern_1.bush_fern_1
+[2021.12.12-01.17.25:521][730]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.12.12-01.17.25:521][730]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.12.12-01.17.25:521][730]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.12.12-01.17.25:521][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.12.12-01.17.25:635][734]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.12-01.17.25:900][743]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.12.12-01.17.26:177][753]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.12-01.17.26:311][756]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.12.12-01.17.26:534][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.12.12-01.17.26:595][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.12.12-01.17.32:118][ 71]LogMaterial: Display: Material /Game/FoliagePack/Material/leaf.leaf needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.12.12-01.17.32:120][ 71]LogMaterial: Display: Missing cached shader map for material leaf, compiling. 
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 159
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 149
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 139
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 129
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 119
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 109
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 99
+[2021.12.12-01.17.32:188][ 72]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 89
+[2021.12.12-01.17.37:088][331]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 79
+[2021.12.12-01.17.37:545][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2021.12.12-01.17.37:564][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
+[2021.12.12-01.17.37:648][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 52
+[2021.12.12-01.17.37:972][382]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 45
+[2021.12.12-01.17.38:576][417]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2021.12.12-01.17.38:871][434]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2021.12.12-01.17.39:225][455]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.12.12-01.17.40:990][558]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.12.12-01.17.41:397][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.12.12-01.17.41:657][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.12.12-01.17.41:862][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.12.12-01.17.42:067][621]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.12.12-01.17.42:532][648]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.12.12-01.17.42:566][650]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.12.12-01.17.42:652][655]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.12.12-01.17.42:752][661]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.12.12-01.17.43:223][688]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.12.12-01.17.43:330][694]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.12-01.17.43:447][701]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.12.12-01.17.43:465][702]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.12.12-01.17.43:517][705]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.12.12-01.24.33:268][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.12-01.24.34:990][279]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_Auto6CE63F91C475E7BA6EA62C9A00FA32BB8.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto6.umap'
+[2021.12.12-01.24.34:995][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level1' took 1.736
+[2021.12.12-01.24.34:995][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.736
+[2021.12.12-01.24.34:996][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FoliagePack/MaterialInstance/leaf_pile_5] ([1] browsable assets)...
+[2021.12.12-01.24.35:008][279]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FoliagePack/MaterialInstance/leaf_pile_5.leaf_pile_5]
+[2021.12.12-01.24.35:008][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/FoliagePack/MaterialInstance/leaf_pile_5]
+[2021.12.12-01.24.35:015][279]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/leaf_pile_5_Auto647C49FD84C372D9D2D1341A3F1454C50.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/FoliagePack/MaterialInstance/leaf_pile_5_Auto6.uasset'
+[2021.12.12-01.24.35:016][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FoliagePack/Material/leaf] ([1] browsable assets)...
+[2021.12.12-01.24.35:027][279]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FoliagePack/Material/leaf.leaf]
+[2021.12.12-01.24.35:027][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/FoliagePack/Material/leaf]
+[2021.12.12-01.24.35:038][279]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/leaf_Auto6908E997E4D1D7739E064139886ADED23.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Autosaves/Game/FoliagePack/Material/leaf_Auto6.uasset'
+[2021.12.12-01.24.35:038][279]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.12.12-01.31.33:078][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.12.12-01.31.34:851][352]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1025A39084D745D41289EE699D5C2A07F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.31.35:166][352]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData810A6296495A38BF84A998845F91D05F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.31.35:182][352]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.31.35:182][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.31.35:182][352]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.32.11:273][513]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.12-01.32.11:282][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-01.32.11:283][513]PIE: New page: PIE session: Level1 (Dec 11, 2021, 9:32:11 AM)
+[2021.12.12-01.32.11:283][513]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-01.32.11:459][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176596s)
+[2021.12.12-01.32.11:460][513]LogAIModule: Creating AISystem for world Level1
+[2021.12.12-01.32.11:460][513]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2021.12.12-01.32.11:461][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.177916s)
+[2021.12.12-01.32.11:470][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.12-01.32.11:473][513]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-01.32.11:473][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-01.32.11:473][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-01.32.11:474][513]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-01.32.11:474][513]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-01.32.11:476][513]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-01.32.11:476][513]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-01.32.11:488][513]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.12-01.32.11:488][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-01.32.11:488][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-01.32.11:488][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-01.32.11:488][513]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.12-01.32.11:488][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-01.32.11:488][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-01.32.11:501][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-01.32.11:501][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-01.32.11:501][513]LogInit: FAudioDevice initialized.
+[2021.12.12-01.32.11:501][513]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2021.12.12-01.32.11:510][513]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.12-01.32.11:526][513]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.12.11-17.32.11
+[2021.12.12-01.32.11:526][513]LogWorld: Bringing up level for play took: 0.015835
+[2021.12.12-01.32.11:527][513]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.12-01.32.11:531][513]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.12-01.32.11:531][513]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.12.12-01.32.11:531][513]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.12-01.32.11:531][513]PIE: Server logged in
+[2021.12.12-01.32.11:532][513]PIE: Play in editor total start time 0.253 seconds.
+[2021.12.12-01.32.12:904][594]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2021.12.12-01.32.12:904][594]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.12.12-01.32.54:997][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-01.32.54:997][112]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-01.32.54:997][112]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-01.32.55:000][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-01.32.55:007][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-01.32.55:010][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-01.32.55:016][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-01.32.55:019][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-01.32.55:021][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-01.32.55:040][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.12-01.32.55:065][113]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.12-01.32.56:112][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.12-01.32.57:877][168]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level16783B6C84780A5CE61650B980B71E30F.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.32.58:212][168]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData6387DD08411C2B346206968708F2DDDE.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.32.58:221][168]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.32.58:221][168]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.32.58:221][168]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.34.22:731][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.12.12-01.34.22:776][219]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.12.12-01.34.33:230][841]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 64X64)
+[2021.12.12-01.34.37:629][105]LogMaterial: Display: Missing cached shader map for material MasterMaterialLevel1, compiling. 
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.12.12-01.34.37:700][107]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.12.12-01.34.37:701][107]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.12.12-01.34.59:582][407]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 64X64)
+[2021.12.12-01.35.02:603][588]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 64X64)
+[2021.12.12-01.35.19:716][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.12-01.35.19:821][606]LogTexture: Display: Building textures: Texture2D_456 (BGRA8, 64X64)
+[2021.12.12-01.35.19:822][606]LogTexture: Display: Building textures: Texture2D_472 (BGRA8, 64X64)
+[2021.12.12-01.35.19:823][606]LogTexture: Display: Building textures: Texture2D_506 (BGRA8, 64X64)
+[2021.12.12-01.35.19:824][606]LogTexture: Display: Building textures: Texture2D_522 (BGRA8, 64X64)
+[2021.12.12-01.35.19:825][606]LogTexture: Display: Building textures: Texture2D_555 (BGRA8, 64X64)
+[2021.12.12-01.35.19:825][606]LogTexture: Display: Building textures: Texture2D_457 (BGRA8, 64X64)
+[2021.12.12-01.35.19:826][606]LogTexture: Display: Building textures: Texture2D_674 (BGRA8, 64X64)
+[2021.12.12-01.35.19:827][606]LogTexture: Display: Building textures: Texture2D_676 (BGRA8, 64X64)
+[2021.12.12-01.35.19:828][606]LogTexture: Display: Building textures: Texture2D_572 (BGRA8, 64X64)
+[2021.12.12-01.35.19:829][606]LogTexture: Display: Building textures: Texture2D_573 (BGRA8, 64X64)
+[2021.12.12-01.35.19:829][606]LogTexture: Display: Building textures: Texture2D_669 (BGRA8, 64X64)
+[2021.12.12-01.35.19:831][606]LogTexture: Display: Building textures: Texture2D_610 (BGRA8, 64X64)
+[2021.12.12-01.35.19:831][606]LogTexture: Display: Building textures: Texture2D_672 (BGRA8, 64X64)
+[2021.12.12-01.35.19:832][606]LogTexture: Display: Building textures: Texture2D_607 (BGRA8, 64X64)
+[2021.12.12-01.35.19:833][606]LogTexture: Display: Building textures: Texture2D_606 (BGRA8, 64X64)
+[2021.12.12-01.35.19:834][606]LogTexture: Display: Building textures: Texture2D_459 (BGRA8, 64X64)
+[2021.12.12-01.35.19:835][606]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 64X64)
+[2021.12.12-01.35.19:836][606]LogTexture: Display: Building textures: Texture2D_670 (BGRA8, 64X64)
+[2021.12.12-01.35.19:836][606]LogTexture: Display: Building textures: Texture2D_460 (BGRA8, 64X64)
+[2021.12.12-01.35.19:837][606]LogTexture: Display: Building textures: Texture2D_552 (BGRA8, 64X64)
+[2021.12.12-01.35.19:838][606]LogTexture: Display: Building textures: Texture2D_462 (BGRA8, 64X64)
+[2021.12.12-01.35.19:839][606]LogTexture: Display: Building textures: Texture2D_604 (BGRA8, 64X64)
+[2021.12.12-01.35.19:840][606]LogTexture: Display: Building textures: Texture2D_470 (BGRA8, 64X64)
+[2021.12.12-01.35.19:841][606]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 64X64)
+[2021.12.12-01.35.19:841][606]LogTexture: Display: Building textures: Texture2D_616 (BGRA8, 64X64)
+[2021.12.12-01.35.19:842][606]LogTexture: Display: Building textures: Texture2D_476 (BGRA8, 64X64)
+[2021.12.12-01.35.19:845][606]LogTexture: Display: Building textures: Texture2D_493 (BGRA8, 64X64)
+[2021.12.12-01.35.19:846][606]LogTexture: Display: Building textures: Texture2D_495 (BGRA8, 64X64)
+[2021.12.12-01.35.19:846][606]LogTexture: Display: Building textures: Texture2D_595 (BGRA8, 64X64)
+[2021.12.12-01.35.19:847][606]LogTexture: Display: Building textures: Texture2D_499 (BGRA8, 64X64)
+[2021.12.12-01.35.19:848][606]LogTexture: Display: Building textures: Texture2D_594 (BGRA8, 64X64)
+[2021.12.12-01.35.19:849][606]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 64X64)
+[2021.12.12-01.35.19:850][606]LogTexture: Display: Building textures: Texture2D_500 (BGRA8, 64X64)
+[2021.12.12-01.35.19:851][606]LogTexture: Display: Building textures: Texture2D_501 (BGRA8, 64X64)
+[2021.12.12-01.35.19:852][606]LogTexture: Display: Building textures: Texture2D_593 (BGRA8, 64X64)
+[2021.12.12-01.35.19:853][606]LogTexture: Display: Building textures: Texture2D_502 (BGRA8, 64X64)
+[2021.12.12-01.35.19:853][606]LogTexture: Display: Building textures: Texture2D_713 (BGRA8, 64X64)
+[2021.12.12-01.35.19:854][606]LogTexture: Display: Building textures: Texture2D_504 (BGRA8, 64X64)
+[2021.12.12-01.35.19:855][606]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 64X64)
+[2021.12.12-01.35.19:856][606]LogTexture: Display: Building textures: Texture2D_592 (BGRA8, 64X64)
+[2021.12.12-01.35.19:857][606]LogTexture: Display: Building textures: Texture2D_505 (BGRA8, 64X64)
+[2021.12.12-01.35.19:858][606]LogTexture: Display: Building textures: Texture2D_591 (BGRA8, 64X64)
+[2021.12.12-01.35.19:859][606]LogTexture: Display: Building textures: Texture2D_513 (BGRA8, 64X64)
+[2021.12.12-01.35.19:860][606]LogTexture: Display: Building textures: Texture2D_700 (BGRA8, 64X64)
+[2021.12.12-01.35.19:860][606]LogTexture: Display: Building textures: Texture2D_611 (BGRA8, 64X64)
+[2021.12.12-01.35.19:861][606]LogTexture: Display: Building textures: Texture2D_586 (BGRA8, 64X64)
+[2021.12.12-01.35.19:862][606]LogTexture: Display: Building textures: Texture2D_682 (BGRA8, 64X64)
+[2021.12.12-01.35.19:863][606]LogTexture: Display: Building textures: Texture2D_590 (BGRA8, 64X64)
+[2021.12.12-01.35.19:864][606]LogTexture: Display: Building textures: Texture2D_521 (BGRA8, 64X64)
+[2021.12.12-01.35.19:866][606]LogTexture: Display: Building textures: Texture2D_599 (BGRA8, 64X64)
+[2021.12.12-01.35.19:866][606]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 64X64)
+[2021.12.12-01.35.19:868][606]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 64X64)
+[2021.12.12-01.35.19:869][606]LogTexture: Display: Building textures: Texture2D_548 (BGRA8, 64X64)
+[2021.12.12-01.35.19:870][606]LogTexture: Display: Building textures: Texture2D_549 (BGRA8, 64X64)
+[2021.12.12-01.35.19:871][606]LogTexture: Display: Building textures: Texture2D_585 (BGRA8, 64X64)
+[2021.12.12-01.35.19:871][606]LogTexture: Display: Building textures: Texture2D_584 (BGRA8, 64X64)
+[2021.12.12-01.35.19:874][606]LogTexture: Display: Building textures: Texture2D_717 (BGRA8, 64X64)
+[2021.12.12-01.35.19:875][606]LogTexture: Display: Building textures: Texture2D_706 (BGRA8, 64X64)
+[2021.12.12-01.35.21:594][606]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1C8515DE54479AFF14E54FBA588A8675C.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.35.21:939][606]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataA4A6F6DA411209C4703863A8013C316C.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.35.21:947][606]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.35.21:947][606]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.35.21:947][606]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.36.14:811][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.12.12-01.36.16:006][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.12-01.36.17:072][907]Cmd: DELETE
+[2021.12.12-01.36.17:072][907]Cmd: ACTOR DELETE
+[2021.12.12-01.36.17:206][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.12-01.36.17:216][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.12-01.36.17:217][907]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2021.12.12-01.46.02:893][ 37]Cmd: TRANSACTION UNDO
+[2021.12.12-01.46.02:893][ 37]LogEditorTransaction: Undo Foliage Editing
+[2021.12.12-01.46.14:393][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.12.12-01.46.14:497][705]LogTexture: Display: Building textures: Texture2D_603 (BGRA8, 64X64)
+[2021.12.12-01.46.14:497][705]LogTexture: Display: Building textures: Texture2D_480 (BGRA8, 64X64)
+[2021.12.12-01.46.14:497][705]LogTexture: Display: Building textures: Texture2D_485 (BGRA8, 64X64)
+[2021.12.12-01.46.14:498][705]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 64X64)
+[2021.12.12-01.46.16:188][705]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1AD4A6CB840519BFDE2DF7C8A66441332.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.46.16:521][705]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataB3AB041D4220B7AD79A2F78A15084B94.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.46.16:531][705]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.46.16:531][705]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.46.16:531][705]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.46.27:693][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.12-01.46.29:500][367]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level17AE66F704EC7EF3E52431C99A88A2F91.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.46.29:828][367]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltDataA99120C0490A5EC43F3FA39ACD0A295E.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.46.29:840][367]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.46.29:840][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.46.29:840][367]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.46.30:233][390]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.12-01.46.30:241][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-01.46.30:241][390]PIE: New page: PIE session: Level1 (Dec 11, 2021, 9:46:30 AM)
+[2021.12.12-01.46.30:241][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-01.46.30:414][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172932s)
+[2021.12.12-01.46.30:415][390]LogAIModule: Creating AISystem for world Level1
+[2021.12.12-01.46.30:415][390]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2021.12.12-01.46.30:415][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.174222s)
+[2021.12.12-01.46.30:424][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.12-01.46.30:428][390]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-01.46.30:428][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-01.46.30:428][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-01.46.30:429][390]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-01.46.30:429][390]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-01.46.30:431][390]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-01.46.30:431][390]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-01.46.30:442][390]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.12-01.46.30:442][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-01.46.30:442][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-01.46.30:442][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-01.46.30:442][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.12-01.46.30:442][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.12-01.46.30:442][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.12-01.46.30:456][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.12-01.46.30:456][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.12-01.46.30:456][390]LogInit: FAudioDevice initialized.
+[2021.12.12-01.46.30:456][390]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2021.12.12-01.46.30:464][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.12-01.46.30:480][390]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.12.11-17.46.30
+[2021.12.12-01.46.30:481][390]LogWorld: Bringing up level for play took: 0.015385
+[2021.12.12-01.46.30:481][390]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.12.12-01.46.30:486][390]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.12-01.46.30:486][390]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.12.12-01.46.30:486][390]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.12-01.46.30:486][390]PIE: Server logged in
+[2021.12.12-01.46.30:487][390]PIE: Play in editor total start time 0.249 seconds.
+[2021.12.12-01.49.51:501][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-01.49.51:504][448]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2021.12.12-01.49.51:504][448]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-01.49.51:507][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-01.49.51:515][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-01.49.51:517][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-01.49.51:524][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.12-01.49.51:527][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-01.49.51:528][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.12-01.49.51:544][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-01.49.51:549][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.12-01.49.51:606][450]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.12.12-01.54.16:908][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.12-01.54.18:827][359]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1CEC065A543D4560789068B9FF44B8C2C.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.54.19:163][359]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData4170D99146A217AD617716A2C5B0FD19.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.54.19:181][359]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.54.19:181][359]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.54.19:181][359]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2021.12.12-01.54.22:441][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.12.12-01.54.24:377][544]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1B1F10A2D493B641C41F09F83D1E01FA7.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap'
+[2021.12.12-01.54.24:377][544]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1.umap', retrying in .5s...
+[2021.12.12-01.54.24:882][544]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.12.12-01.54.25:208][544]LogSavePackage: Moving '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Saved/Level1_BuiltData2A2D6B664C5216DAF0FA52A7EC330148.tmp' to '../../../../../../Users/barre/OneDrive/Desktop/Projects/RidingHood/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2021.12.12-01.54.25:227][544]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.12-01.54.25:227][544]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.12.12-01.54.25:227][544]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
